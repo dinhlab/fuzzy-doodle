@@ -14,5 +14,6 @@ app.listen(port, () => {
 })
 app.use((err, req, res, next) => {
   console.log('ERROR', err.message)
-  return res.send(err.message)
+  const statusCode = err.statusCode || 500
+  res.status(statusCode).send(err.message)
 })
