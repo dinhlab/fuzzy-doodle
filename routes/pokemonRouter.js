@@ -93,7 +93,7 @@ router.get('/:id', async (req, res, next) => {
       throw error
     }
     const previousPokemon = pokemons[index - 1] || pokemons[pokemons.length - 1]
-    const nextPokemon = pokemons[index + 1] || pokemon[0]
+    const nextPokemon = pokemons[index + 1] || pokemons[0]
     const result = {
       pokemon, previousPokemon, nextPokemon
     }
