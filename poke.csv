@@ -1,0 +1,401 @@
+name,classfication,height_m,weight_kg,abilities,Type1,Type2
+Bulbasaur,Seed,0.7,6.9,"['Overgrow', 'Chlorophyll']",Grass,Poison
+Ivysaur,Seed,1,13,"['Overgrow', 'Chlorophyll']",Grass,Poison
+Venusaur,Seed,2,100,"['Overgrow', 'Chlorophyll']",Grass,Poison
+Charmander,Lizard,0.6,8.5,"['Blaze', 'Solar Power']",Fire,
+Charmeleon,Flame,1.1,19,"['Blaze', 'Solar Power']",Fire,
+Charizard,Flame,1.7,90.5,"['Blaze', 'Solar Power']",Fire,Flying
+Squirtle,Tiny Turtle,0.5,9,"['Torrent', 'Rain Dish']",Water,
+Wartortle,Turtle,1,22.5,"['Torrent', 'Rain Dish']",Water,
+Blastoise,Shellfish,1.6,85.5,"['Torrent', 'Rain Dish']",Water,
+Caterpie,Worm,0.3,2.9,"['Shield Dust', 'Run Away']",Bug,
+Metapod,Cocoon,0.7,9.9,['Shed Skin'],Bug,
+Butterfree,Butterfly,1.1,32,"['Compoundeyes', 'Tinted Lens']",Bug,Flying
+Weedle,Hairy,0.3,3.2,"['Shield Dust', 'Run Away']",Bug,Poison
+Kakuna,Cocoon,0.6,10,['Shed Skin'],Bug,Poison
+Beedrill,Poison Bee,1,29.5,"['Swarm', 'Sniper']",Bug,Poison
+Pidgey,Tiny Bird,0.3,1.8,"['Keen Eye', 'Tangled Feet', 'Big Pecks']",Normal,Flying
+Pidgeotto,Bird,1.1,30,"['Keen Eye', 'Tangled Feet', 'Big Pecks']",Normal,Flying
+Pidgeot,Bird,1.5,39.5,"['Keen Eye', 'Tangled Feet', 'Big Pecks']",Normal,Flying
+Rattata,Mouse,,,"['Run Away', 'Guts', 'Hustle', 'Gluttony', 'Hustle', 'Thick Fat']",Normal,
+Raticate,Mouse,,,"['Run Away', 'Guts', 'Hustle', 'Gluttony', 'Hustle', 'Thick Fat']",Normal,
+Spearow,Tiny Bird,0.3,2,"['Keen Eye', 'Sniper']",Normal,Flying
+Fearow,Beak,1.2,38,"['Keen Eye', 'Sniper']",Normal,Flying
+Ekans,Snake,2,6.9,"['Intimidate', 'Shed Skin', 'Unnerve']",Poison,
+Arbok,Cobra,3.5,65,"['Intimidate', 'Shed Skin', 'Unnerve']",Poison,
+Pikachu,Mouse,0.4,6,"['Static', 'Lightningrod']",Electric,
+Raichu,Mouse,,,"['Static', 'Lightningrod', 'Surge Surfer']",Electric,
+Sandshrew,Mouse,,,"['Sand Veil', 'Sand Rush', 'Snow Cloak', 'Slush Rush']",Ground,
+Sandslash,Mouse,,,"['Sand Veil', 'Sand Rush', 'Snow Cloak', 'Slush Rush']",Ground,
+Nidoran♀,Poison Pin,0.4,7,"['Poison Point', 'Rivalry', 'Hustle']",Poison,
+Nidorina,Poison Pin,0.8,20,"['Poison Point', 'Rivalry', 'Hustle']",Poison,
+Nidoqueen,Drill,1.3,60,"['Poison Point', 'Rivalry', 'Sheer Force']",Poison,Ground
+Nidoran♂,Poison Pin,0.5,9,"['Poison Point', 'Rivalry', 'Hustle']",Poison,
+Nidorino,Poison Pin,0.9,19.5,"['Poison Point', 'Rivalry', 'Hustle']",Poison,
+Nidoking,Drill,1.4,62,"['Poison Point', 'Rivalry', 'Sheer Force']",Poison,Ground
+Clefairy,Fairy,0.6,7.5,"['Cute Charm', 'Magic Guard', 'Friend Guard']",Fairy,
+Clefable,Fairy,1.3,40,"['Cute Charm', 'Magic Guard', 'Unaware']",Fairy,
+Vulpix,Fox,,,"['Flash Fire', 'Drought', 'Snow Cloak', 'Snow Warning']",Fire,
+Ninetales,Fox,,,"['Flash Fire', 'Drought', 'Snow Cloak', 'Snow Warning']",Fire,
+Jigglypuff,Balloon,0.5,5.5,"['Cute Charm', 'Competitive', 'Friend Guard']",Normal,Fairy
+Wigglytuff,Balloon,1,12,"['Cute Charm', 'Competitive', 'Frisk']",Normal,Fairy
+Zubat,Bat,0.8,7.5,"['Inner Focus', 'Infiltrator']",Poison,Flying
+Golbat,Bat,1.6,55,"['Inner Focus', 'Infiltrator']",Poison,Flying
+Oddish,Weed,0.5,5.4,"['Chlorophyll', 'Run Away']",Grass,Poison
+Gloom,Weed,0.8,8.6,"['Chlorophyll', 'Stench']",Grass,Poison
+Vileplume,Flower,1.2,18.6,"['Chlorophyll', 'Effect Spore']",Grass,Poison
+Paras,Mushroom,0.3,5.4,"['Effect Spore', 'Dry Skin', 'Damp']",Bug,Grass
+Parasect,Mushroom,1,29.5,"['Effect Spore', 'Dry Skin', 'Damp']",Bug,Grass
+Venonat,Insect,1,30,"['Compoundeyes', 'Tinted Lens', 'Run Away']",Bug,Poison
+Venomoth,Poison Moth,1.5,12.5,"['Shield Dust', 'Tinted Lens', 'Wonder Skin ']",Bug,Poison
+Diglett,Mole,,,"['Sand Veil', 'Arena Trap', 'Sand Force', 'Sand Veil', 'Tangling Hair', 'Sand Force']",Ground,
+Dugtrio,Mole,,,"['Sand Veil', 'Arena Trap', 'Sand Force', 'Sand Veil', 'Tangling Hair', 'Sand Force']",Ground,
+Meowth,Scratch Cat,,,"['Pickup', 'Technician', 'Unnerve', 'Pickup', 'Technician', 'Rattled']",Normal,
+Persian,Classy Cat,,,"['Limber', 'Technician', 'Unnerve', 'Fur Coat', 'Technician', 'Rattled']",Normal,
+Psyduck,Duck,0.8,19.6,"['Damp', 'Cloud Nine', 'Swift Swim']",Water,
+Golduck,Duck,1.7,76.6,"['Damp', 'Cloud Nine', 'Swift Swim']",Water,
+Mankey,Pig Monkey,0.5,28,"['Vital Spirit', 'Anger Point', 'Defiant']",Fighting,
+Primeape,Pig Monkey,1,32,"['Vital Spirit', 'Anger Point', 'Defiant']",Fighting,
+Growlithe,Puppy,0.7,19,"['Intimidate', 'Flash Fire', 'Justified']",Fire,
+Arcanine,Legendary,1.9,155,"['Intimidate', 'Flash Fire', 'Justified']",Fire,
+Poliwag,Tadpole,0.6,12.4,"['Water Absorb', 'Damp', 'Swift Swim']",Water,
+Poliwhirl,Tadpole,1,20,"['Water Absorb', 'Damp', 'Swift Swim']",Water,
+Poliwrath,Tadpole,1.3,54,"['Water Absorb', 'Damp', 'Swift Swim']",Water,Fighting
+Abra,Psi,0.9,19.5,"['Synchronize', 'Inner Focus', 'Magic Guard']",Psychic,
+Kadabra,Psi,1.3,56.5,"['Synchronize', 'Inner Focus', 'Magic Guard']",Psychic,
+Alakazam,Psi,1.5,48,"['Synchronize', 'Inner Focus', 'Magic Guard']",Psychic,
+Machop,Superpower,0.8,19.5,"['Guts', 'No Guard', 'Steadfast']",Fighting,
+Machoke,Superpower,1.5,70.5,"['Guts', 'No Guard', 'Steadfast']",Fighting,
+Machamp,Superpower,1.6,130,"['Guts', 'No Guard', 'Steadfast']",Fighting,
+Bellsprout,Flower,0.7,4,"['Chlorophyll', 'Gluttony']",Grass,Poison
+Weepinbell,Flycatcher,1,6.4,"['Chlorophyll', 'Gluttony']",Grass,Poison
+Victreebel,Flycatcher,1.7,15.5,"['Chlorophyll', 'Gluttony']",Grass,Poison
+Tentacool,Jellyfish,0.9,45.5,"['Clear Body', 'Liquid Ooze', 'Rain Dish']",Water,Poison
+Tentacruel,Jellyfish,1.6,55,"['Clear Body', 'Liquid Ooze', 'Rain Dish']",Water,Poison
+Geodude,Rock,,,"['Rock Head', 'Sturdy', 'Sand Veil', 'Magnet Pull', 'Sturdy', 'Galvanize']",Rock,Ground
+Graveler,Rock,,,"['Rock Head', 'Sturdy', 'Sand Veil', 'Magnet Pull', 'Sturdy', 'Galvanize']",Rock,Ground
+Golem,Megaton,,,"['Rock Head', 'Sturdy', 'Sand Veil', 'Magnet Pull', 'Sturdy', 'Galvanize']",Rock,Ground
+Ponyta,Fire Horse,1,30,"['Run Away', 'Flash Fire', 'Flame Body']",Fire,
+Rapidash,Fire Horse,1.7,95,"['Run Away', 'Flash Fire', 'Flame Body']",Fire,
+Slowpoke,Dopey,1.2,36,"['Oblivious', 'Own Tempo', 'Regenerator']",Water,Psychic
+Slowbro,Hermit Crab,1.6,78.5,"['Oblivious', 'Own Tempo', 'Regenerator']",Water,Psychic
+Magnemite,Magnet,0.3,6,"['Magnet Pull', 'Sturdy', 'Analytic']",Electric,Steel
+Magneton,Magnet,1,60,"['Magnet Pull', 'Sturdy', 'Analytic']",Electric,Steel
+Farfetch'd,Wild Duck,0.8,15,"['Keen Eye', 'Inner Focus', 'Defiant']",Normal,Flying
+Doduo,Twin Bird,1.4,39.2,"['Run Away', 'Early Bird', 'Tangled Feet']",Normal,Flying
+Dodrio,Triple Bird,1.8,85.2,"['Run Away', 'Early Bird', 'Tangled Feet']",Normal,Flying
+Seel,Sea Lion,1.1,90,"['Thick Fat', 'Hydration', 'Ice Body']",Water,
+Dewgong,Sea Lion,1.7,120,"['Thick Fat', 'Hydration', 'Ice Body']",Water,Ice
+Grimer,Sludge,,,"['Stench', 'Sticky Hold', 'Poison Touch', 'Poison Touch', 'Gluttony', 'Power of Alchemy']",Poison,
+Muk,Sludge,,,"['Stench', 'Sticky Hold', 'Poison Touch', 'Poison Touch', 'Gluttony', 'Power of Alchemy']",Poison,
+Shellder,Bivalve,0.3,4,"['Shell Armor', 'Skill Link', 'Overcoat']",Water,
+Cloyster,Bivalve,1.5,132.5,"['Shell Armor', 'Skill Link', 'Overcoat']",Water,Ice
+Gastly,Gas,1.3,0.1,['Levitate'],Ghost,Poison
+Haunter,Gas,1.6,0.1,['Levitate'],Ghost,Poison
+Gengar,Shadow,1.5,40.5,['Cursed Body'],Ghost,Poison
+Onix,Rock Snake,8.8,210,"['Rock Head', 'Sturdy', 'Weak Armor']",Rock,Ground
+Drowzee,Hypnosis,1,32.4,"['Insomnia', 'Forewarn', 'Inner Focus']",Psychic,
+Hypno,Hypnosis,1.6,75.6,"['Insomnia', 'Forewarn', 'Inner Focus']",Psychic,
+Krabby,River Crab,0.4,6.5,"['Hyper Cutter', 'Shell Armor', 'Sheer Force']",Water,
+Kingler,Pincer,1.3,60,"['Hyper Cutter', 'Shell Armor', 'Sheer Force']",Water,
+Voltorb,Ball,0.5,10.4,"['Soundproof', 'Static', 'Aftermath']",Electric,
+Electrode,Ball,1.2,66.6,"['Soundproof', 'Static', 'Aftermath']",Electric,
+Exeggcute,Egg,0.4,2.5,"['Chlorophyll', 'Harvest']",Grass,Psychic
+Exeggutor,Coconut,,,"['Chlorophyll', 'Harvest', 'Frisk', 'Harvest']",Grass,Psychic
+Cubone,Lonely,0.4,6.5,"['Rock Head', 'Lightningrod', 'Battle Armor']",Ground,
+Marowak,Bone Keeper,,,"['Rock Head', 'Lightningrod', 'Battle Armor', 'Cursed Body', 'Lightningrod', 'Rock Head']",Ground,
+Hitmonlee,Kicking,1.5,49.8,"['Limber', 'Reckless', 'Unburden']",Fighting,
+Hitmonchan,Punching,1.4,50.2,"['Keen Eye', 'Iron Fist', 'Inner Focus']",Fighting,
+Lickitung,Licking,1.2,65.5,"['Own Tempo', 'Oblivious', 'Cloud Nine']",Normal,
+Koffing,Poison Gas,0.6,1,['Levitate'],Poison,
+Weezing,Poison Gas,1.2,9.5,['Levitate'],Poison,
+Rhyhorn,Spikes,1,115,"['Lightningrod', 'Rock Head', 'Reckless']",Ground,Rock
+Rhydon,Drill,1.9,120,"['Lightningrod', 'Rock Head', 'Reckless']",Ground,Rock
+Chansey,Egg,1.1,34.6,"['Natural Cure', 'Serene Grace', 'Healer']",Normal,
+Tangela,Vine,1,35,"['Chlorophyll', 'Leaf Guard', 'Regenerator']",Grass,
+Kangaskhan,Parent,2.2,80,"['Early Bird', 'Scrappy', 'Inner Focus']",Normal,
+Horsea,Dragon,0.4,8,"['Swift Swim', 'Sniper', 'Damp']",Water,
+Seadra,Dragon,1.2,25,"['Poison Point', 'Sniper', 'Damp']",Water,
+Goldeen,Goldfish,0.6,15,"['Swift Swim', 'Water Veil', 'Lightningrod']",Water,
+Seaking,Goldfish,1.3,39,"['Swift Swim', 'Water Veil', 'Lightningrod']",Water,
+Staryu,Starshape,0.8,34.5,"['Illuminate', 'Natural Cure', 'Analytic']",Water,
+Starmie,Mysterious,1.1,80,"['Illuminate', 'Natural Cure', 'Analytic']",Water,Psychic
+Mr. Mime,Barrier,1.3,54.5,"['Soundproof', 'Filter', 'Technician']",Psychic,Fairy
+Scyther,Mantis,1.5,56,"['Swarm', 'Technician', 'Steadfast']",Bug,Flying
+Jynx,Humanshape,1.4,40.6,"['Oblivious', 'Forewarn', 'Dry Skin']",Ice,Psychic
+Electabuzz,Electric,1.1,30,"['Static', 'Vital Spirit']",Electric,
+Magmar,Spitfire,1.3,44.5,"['Flame Body', 'Vital Spirit']",Fire,
+Pinsir,Stagbeetle,1.5,55,"['Hyper Cutter', 'Mold Breaker', 'Moxie']",Bug,
+Tauros,Wild Bull,1.4,88.4,"['Intimidate', 'Anger Point', 'Sheer Force']",Normal,
+Magikarp,Fish,0.9,10,"['Swift Swim', 'Rattled']",Water,
+Gyarados,Atrocious,6.5,235,"['Intimidate', 'Moxie']",Water,Flying
+Lapras,Transport,2.5,220,"['Water Absorb', 'Shell Armor', 'Hydration']",Water,Ice
+Ditto,Transform,0.3,4,"['Limber', 'Imposter']",Normal,
+Eevee,Evolution,0.3,6.5,"['Run Away', 'Adaptability', 'Anticipation']",Normal,
+Vaporeon,Bubble Jet,1,29,"['Water Absorb', 'Hydration']",Water,
+Jolteon,Lightning,0.8,24.5,"['Volt Absorb', 'Quick Feet']",Electric,
+Flareon,Flame,0.9,25,"['Flash Fire', 'Guts']",Fire,
+Porygon,Virtual,0.8,36.5,"['Trace', 'Download', 'Analytic']",Normal,
+Omanyte,Spiral,0.4,7.5,"['Swift Swim', 'Shell Armor', 'Weak Armor']",Rock,Water
+Omastar,Spiral,1,35,"['Swift Swim', 'Shell Armor', 'Weak Armor']",Rock,Water
+Kabuto,Shellfish,0.5,11.5,"['Swift Swim', 'Battle Armor', 'Weak Armor']",Rock,Water
+Kabutops,Shellfish,1.3,40.5,"['Swift Swim', 'Battle Armor', 'Weak Armor']",Rock,Water
+Aerodactyl,Fossil,1.8,59,"['Rock Head', 'Pressure', 'Unnerve']",Rock,Flying
+Snorlax,Sleeping,2.1,460,"['Immunity', 'Thick Fat', 'Gluttony']",Normal,
+Articuno,Freeze,1.7,55.4,"['Pressure', 'Snow Cloak']",Ice,Flying
+Zapdos,Electric,1.6,52.6,"['Pressure', 'Static']",Electric,Flying
+Moltres,Flame,2,60,"['Pressure', 'Flame Body']",Fire,Flying
+Dratini,Dragon,1.8,3.3,"['Shed Skin', 'Marvel Scale']",Dragon,
+Dragonair,Dragon,4,16.5,"['Shed Skin', 'Marvel Scale']",Dragon,
+Dragonite,Dragon,2.2,210,"['Inner Focus', 'Multiscale']",Dragon,Flying
+Mewtwo,Genetic,2,122,"['Pressure', 'Unnerve']",Psychic,
+Mew,New Species,0.4,4,['Synchronize'],Psychic,
+Chikorita,Leaf,0.9,6.4,"['Overgrow', 'Leaf Guard']",Grass,
+Bayleef,Leaf,1.2,15.8,"['Overgrow', 'Leaf Guard']",Grass,
+Meganium,Herb,1.8,100.5,"['Overgrow', 'Leaf Guard']",Grass,
+Cyndaquil,Fire Mouse,0.5,7.9,"['Blaze', 'Flash Fire']",Fire,
+Quilava,Volcano,0.9,19,"['Blaze', 'Flash Fire']",Fire,
+Typhlosion,Volcano,1.7,79.5,"['Blaze', 'Flash Fire']",Fire,
+Totodile,Big Jaw,0.6,9.5,"['Torrent', 'Sheer Force']",Water,
+Croconaw,Big Jaw,1.1,25,"['Torrent', 'Sheer Force']",Water,
+Feraligatr,Big Jaw,2.3,88.8,"['Torrent', 'Sheer Force']",Water,
+Sentret,Scout,0.8,6,"['Run Away', 'Keen Eye', 'Frisk']",Normal,
+Furret,Long Body,1.8,32.5,"['Run Away', 'Keen Eye', 'Frisk']",Normal,
+Hoothoot,Owl,0.7,21.2,"['Insomnia', 'Keen Eye', 'Tinted Lens']",Normal,Flying
+Noctowl,Owl,1.6,40.8,"['Insomnia', 'Keen Eye', 'Tinted Lens']",Normal,Flying
+Ledyba,Five Star,1,10.8,"['Swarm', 'Early Bird', 'Rattled']",Bug,Flying
+Ledian,Five Star,1.4,35.6,"['Swarm', 'Early Bird', 'Iron Fist']",Bug,Flying
+Spinarak,String Spit,0.5,8.5,"['Swarm', 'Insomnia', 'Sniper']",Bug,Poison
+Ariados,Long Leg,1.1,33.5,"['Swarm', 'Insomnia', 'Sniper']",Bug,Poison
+Crobat,Bat,1.8,75,"['Inner Focus', 'Infiltrator']",Poison,Flying
+Chinchou,Angler,0.5,12,"['Volt Absorb', 'Illuminate', 'Water Absorb']",Water,Electric
+Lanturn,Light,1.2,22.5,"['Volt Absorb', 'Illuminate', 'Water Absorb']",Water,Electric
+Pichu,Tiny Mouse,0.3,2,"['Static', 'Lightningrod']",Electric,
+Cleffa,Star Shape,0.3,3,"['Cute Charm', 'Magic Guard', 'Friend Guard']",Fairy,
+Igglybuff,Balloon,0.3,1,"['Cute Charm', 'Competitive', 'Friend Guard']",Normal,Fairy
+Togepi,Spike Ball,0.3,1.5,"['Hustle', 'Serene Grace', 'Super Luck']",Fairy,
+Togetic,Happiness,0.6,3.2,"['Hustle', 'Serene Grace', 'Super Luck']",Fairy,Flying
+Natu,Little Bird,0.2,2,"['Synchronize', 'Early Bird', 'Magic Bounce']",Psychic,Flying
+Xatu,Mystic,1.5,15,"['Synchronize', 'Early Bird', 'Magic Bounce']",Psychic,Flying
+Mareep,Wool,0.6,7.8,"['Static', 'Plus']",Electric,
+Flaaffy,Wool,0.8,13.3,"['Static', 'Plus']",Electric,
+Ampharos,Light,1.4,61.5,"['Static', 'Plus']",Electric,
+Bellossom,Flower,0.4,5.8,"['Chlorophyll', 'Healer']",Grass,
+Marill,Aquamouse,0.4,8.5,"['Thick Fat', 'Huge Power', 'Sap Sipper']",Water,Fairy
+Azumarill,Aquarabbit,0.8,28.5,"['Thick Fat', 'Huge Power', 'Sap Sipper']",Water,Fairy
+Sudowoodo,Imitation,1.2,38,"['Sturdy', 'Rock Head', 'Rattled']",Rock,
+Politoed,Frog,1.1,33.9,"['Water Absorb', 'Damp', 'Drizzle']",Water,
+Hoppip,Cottonweed,0.4,0.5,"['Chlorophyll', 'Leaf Guard', 'Infiltrator']",Grass,Flying
+Skiploom,Cottonweed,0.6,1,"['Chlorophyll', 'Leaf Guard', 'Infiltrator']",Grass,Flying
+Jumpluff,Cottonweed,0.8,3,"['Chlorophyll', 'Leaf Guard', 'Infiltrator']",Grass,Flying
+Aipom,Long Tail,0.8,11.5,"['Run Away', 'Pickup', 'Skill Link']",Normal,
+Sunkern,Seed,0.3,1.8,"['Chlorophyll', 'Solar Power', 'Early Bird']",Grass,
+Sunflora,Sun,0.8,8.5,"['Chlorophyll', 'Solar Power', 'Early Bird']",Grass,
+Yanma,Clear Wing,1.2,38,"['Speed Boost', 'Compoundeyes', 'Frisk']",Bug,Flying
+Wooper,Water Fish,0.4,8.5,"['Damp', 'Water Absorb', 'Unaware']",Water,Ground
+Quagsire,Water Fish,1.4,75,"['Damp', 'Water Absorb', 'Unaware']",Water,Ground
+Espeon,Sun,0.9,26.5,"['Synchronize', 'Magic Bounce']",Psychic,
+Umbreon,Moonlight,1,27,"['Synchronize', 'Inner Focus']",Dark,
+Murkrow,Darkness,0.5,2.1,"['Insomnia', 'Super Luck', 'Prankster']",Dark,Flying
+Slowking,Royal,2,79.5,"['Oblivious', 'Own Tempo', 'Regenerator']",Water,Psychic
+Misdreavus,Screech,0.7,1,['Levitate'],Ghost,
+Unown,Symbol,0.5,5,['Levitate'],Psychic,
+Wobbuffet,Patient,1.3,28.5,"['Shadow Tag', 'Telepathy']",Psychic,
+Girafarig,Long Neck,1.5,41.5,"['Inner Focus', 'Early Bird', 'Sap Sipper']",Normal,Psychic
+Pineco,Bagworm,0.6,7.2,"['Sturdy', 'Overcoat']",Bug,
+Forretress,Bagworm,1.2,125.8,"['Sturdy', 'Overcoat']",Bug,Steel
+Dunsparce,Land Snake,1.5,14,"['Serene Grace', 'Run Away', 'Rattled']",Normal,
+Gligar,Flyscorpion,1.1,64.8,"['Hyper Cutter', 'Sand Veil', 'Immunity']",Ground,Flying
+Steelix,Iron Snake,9.2,400,"['Rock Head', 'Sturdy', 'Sheer Force']",Steel,Ground
+Snubbull,Fairy,0.6,7.8,"['Intimidate', 'Run Away', 'Rattled']",Fairy,
+Granbull,Fairy,1.4,48.7,"['Intimidate', 'Quick Feet', 'Rattled']",Fairy,
+Qwilfish,Balloon,0.5,3.9,"['Poison Point', 'Swift Swim', 'Intimidate']",Water,Poison
+Scizor,Pincer,1.8,118,"['Swarm', 'Technician', 'Light Metal']",Bug,Steel
+Shuckle,Mold,0.6,20.5,"['Sturdy', 'Gluttony', 'Contrary']",Bug,Rock
+Heracross,Singlehorn,1.5,54,"['Swarm', 'Guts', 'Moxie']",Bug,Fighting
+Sneasel,Sharp Claw,0.9,28,"['Inner Focus', 'Keen Eye', 'Pickpocket']",Dark,Ice
+Teddiursa,Little Bear,0.6,8.8,"['Pickup', 'Quick Feet', 'Honey Gather']",Normal,
+Ursaring,Hibernator,1.8,125.8,"['Guts', 'Quick Feet', 'Unnerve']",Normal,
+Slugma,Lava,0.7,35,"['Magma Armor', 'Flame Body', 'Weak Armor']",Fire,
+Magcargo,Lava,0.8,55,"['Magma Armor', 'Flame Body', 'Weak Armor']",Fire,Rock
+Swinub,Pig,0.4,6.5,"['Oblivious', 'Snow Cloak', 'Thick Fat']",Ice,Ground
+Piloswine,Swine,1.1,55.8,"['Oblivious', 'Snow Cloak', 'Thick Fat']",Ice,Ground
+Corsola,Coral,0.6,5,"['Hustle', 'Natural Cure', 'Regenerator']",Water,Rock
+Remoraid,Jet,0.6,12,"['Hustle', 'Sniper', 'Moody']",Water,
+Octillery,Jet,0.9,28.5,"['Suction Cups', 'Sniper', 'Moody']",Water,
+Delibird,Delivery,0.9,16,"['Vital Spirit', 'Hustle', 'Insomnia']",Ice,Flying
+Mantine,Kite,2.1,220,"['Swift Swim', 'Water Absorb', 'Water Veil']",Water,Flying
+Skarmory,Armor Bird,1.7,50.5,"['Keen Eye', 'Sturdy', 'Weak Armor']",Steel,Flying
+Houndour,Dark,0.6,10.8,"['Early Bird', 'Flash Fire', 'Unnerve']",Dark,Fire
+Houndoom,Dark,1.4,35,"['Early Bird', 'Flash Fire', 'Unnerve']",Dark,Fire
+Kingdra,Dragon,1.8,152,"['Swift Swim', 'Sniper', 'Damp']",Water,Dragon
+Phanpy,Long Nose,0.5,33.5,"['Pickup', 'Sand Veil']",Ground,
+Donphan,Armor,1.1,120,"['Sturdy', 'Sand Veil']",Ground,
+Porygon2,Virtual,0.6,32.5,"['Trace', 'Download', 'Analytic']",Normal,
+Stantler,Big Horn,1.4,71.2,"['Intimidate', 'Frisk', 'Sap Sipper']",Normal,
+Smeargle,Painter,1.2,58,"['Own Tempo', 'Technician', 'Moody']",Normal,
+Tyrogue,Scuffle,0.7,21,"['Guts', 'Steadfast', 'Vital Spirit']",Fighting,
+Hitmontop,Handstand,1.4,48,"['Intimidate', 'Technician', 'Steadfast']",Fighting,
+Smoochum,Kiss,0.4,6,"['Oblivious', 'Forewarn', 'Hydration']",Ice,Psychic
+Elekid,Electric,0.6,23.5,"['Static', 'Vital Spirit']",Electric,
+Magby,Live Coal,0.7,21.4,"['Flame Body', 'Vital Spirit']",Fire,
+Miltank,Milk Cow,1.2,75.5,"['Thick Fat', 'Scrappy', 'Sap Sipper']",Normal,
+Blissey,Happiness,1.5,46.8,"['Natural Cure', 'Serene Grace', 'Healer']",Normal,
+Raikou,Thunder,1.9,178,"['Pressure', 'Inner Focus']",Electric,
+Entei,Volcano,2.1,198,"['Pressure', 'Inner Focus']",Fire,
+Suicune,Aurora,2,187,"['Pressure', 'Inner Focus']",Water,
+Larvitar,Rock Skin,0.6,72,"['Guts', 'Sand Veil']",Rock,Ground
+Pupitar,Hard Shell,1.2,152,['Shed Skin'],Rock,Ground
+Tyranitar,Armor,2,202,"['Sand Stream', 'Unnerve']",Rock,Dark
+Lugia,Diving,5.2,216,"['Pressure', 'Multiscale']",Psychic,Flying
+Ho-Oh,Rainbow,3.8,199,"['Pressure', 'Regenerator']",Fire,Flying
+Celebi,Time Travel,0.6,5,['Natural Cure'],Psychic,Grass
+Treecko,Wood Gecko,0.5,5,"['Overgrow', 'Unburden']",Grass,
+Grovyle,Wood Gecko,0.9,21.6,"['Overgrow', 'Unburden']",Grass,
+Sceptile,Forest,1.7,52.2,"['Overgrow', 'Unburden']",Grass,
+Torchic,Chick,0.4,2.5,"['Blaze', 'Speed Boost']",Fire,
+Combusken,Young Fowl,0.9,19.5,"['Blaze', 'Speed Boost']",Fire,Fighting
+Blaziken,Blaze,1.9,52,"['Blaze', 'Speed Boost']",Fire,Fighting
+Mudkip,Mud Fish,0.4,7.6,"['Torrent', 'Damp']",Water,
+Marshtomp,Mud Fish,0.7,28,"['Torrent', 'Damp']",Water,Ground
+Swampert,Mud Fish,1.5,81.9,"['Torrent', 'Damp']",Water,Ground
+Poochyena,Bite,0.5,13.6,"['Run Away', 'Quick Feet', 'Rattled']",Dark,
+Mightyena,Bite,1,37,"['Intimidate', 'Quick Feet', 'Moxie']",Dark,
+Zigzagoon,Tiny Racoon,0.4,17.5,"['Pickup', 'Gluttony', 'Quick Feet']",Normal,
+Linoone,Rush,0.5,32.5,"['Pickup', 'Gluttony', 'Quick Feet']",Normal,
+Wurmple,Worm,0.3,3.6,"['Shield Dust', 'Run Away']",Bug,
+Silcoon,Cocoon,0.6,10,['Shed Skin'],Bug,
+Beautifly,Butterfly,1,28.4,"['Swarm', 'Rivalry']",Bug,Flying
+Cascoon,Cocoon,0.7,11.5,['Shed Skin'],Bug,
+Dustox,Poison Moth,1.2,31.6,"['Shield Dust', 'Compoundeyes']",Bug,Poison
+Lotad,Water Weed,0.5,2.6,"['Swift Swim', 'Rain Dish', 'Own Tempo']",Water,Grass
+Lombre,Jolly,1.2,32.5,"['Swift Swim', 'Rain Dish', 'Own Tempo']",Water,Grass
+Ludicolo,Carefree,1.5,55,"['Swift Swim', 'Rain Dish', 'Own Tempo']",Water,Grass
+Seedot,Acorn,0.5,4,"['Chlorophyll', 'Early Bird', 'Pickpocket']",Grass,
+Nuzleaf,Wily,1,28,"['Chlorophyll', 'Early Bird', 'Pickpocket']",Grass,Dark
+Shiftry,Wickid,1.3,59.6,"['Chlorophyll', 'Early Bird', 'Pickpocket']",Grass,Dark
+Taillow,TinySwallow,0.3,2.3,"['Guts', 'Scrappy']",Normal,Flying
+Swellow,Swallow,0.7,19.8,"['Guts', 'Scrappy']",Normal,Flying
+Wingull,Seagull,0.6,9.5,"['Keen Eye', 'Hydration', 'Rain Dish']",Water,Flying
+Pelipper,Water Bird,1.2,28,"['Keen Eye', 'Drizzle', 'Rain Dish']",Water,Flying
+Ralts,Feeling,0.4,6.6,"['Synchronize', 'Trace', 'Telepathy']",Psychic,Fairy
+Kirlia,Emotion,0.8,20.2,"['Synchronize', 'Trace', 'Telepathy']",Psychic,Fairy
+Gardevoir,Embrace,1.6,48.4,"['Synchronize', 'Trace', 'Telepathy']",Psychic,Fairy
+Surskit,Pond Skater,0.5,1.7,"['Swift Swim', 'Rain Dish']",Bug,Water
+Masquerain,Eyeball,0.8,3.6,"['Intimidate', 'Unnerve']",Bug,Flying
+Shroomish,Mushroom,0.4,4.5,"['Effect Spore', 'Poison Heal', 'Quick Feet']",Grass,
+Breloom,Mushroom,1.2,39.2,"['Effect Spore', 'Poison Heal', 'Technician']",Grass,Fighting
+Slakoth,Slacker,0.8,24,['Truant'],Normal,
+Vigoroth,Wild Monkey,1.4,46.5,['Vital Spirit'],Normal,
+Slaking,Lazy,2,130.5,['Truant'],Normal,
+Nincada,Trainee,0.5,5.5,"['Compoundeyes', 'Run Away']",Bug,Ground
+Ninjask,Ninja,0.8,12,"['Speed Boost', 'Infiltrator']",Bug,Flying
+Shedinja,Shed,0.8,1.2,['Wonder Guard'],Bug,Ghost
+Whismur,Whisper,0.6,16.3,"['Soundproof', 'Rattled']",Normal,
+Loudred,Big Voice,1,40.5,"['Soundproof', 'Scrappy']",Normal,
+Exploud,Loud Noise,1.5,84,"['Soundproof', 'Scrappy']",Normal,
+Makuhita,Guts,1,86.4,"['Thick Fat', 'Guts', 'Sheer Force']",Fighting,
+Hariyama,Arm Thrust,2.3,253.8,"['Thick Fat', 'Guts', 'Sheer Force']",Fighting,
+Azurill,Polka Dot,0.2,2,"['Thick Fat', 'Huge Power', 'Sap Sipper']",Normal,Fairy
+Nosepass,Compass,1,97,"['Sturdy', 'Magnet Pull', 'Sand Force']",Rock,
+Skitty,Kitten,0.6,11,"['Cute Charm', 'Normalize', 'Wonder Skin ']",Normal,
+Delcatty,Prim,1.1,32.6,"['Cute Charm', 'Normalize', 'Wonder Skin ']",Normal,
+Sableye,Darkness,0.5,11,"['Keen Eye', 'Stall', 'Prankster']",Dark,Ghost
+Mawile,Deceiver,0.6,11.5,"['Hyper Cutter', 'Intimidate', 'Sheer Force']",Steel,Fairy
+Aron,Iron Armor,0.4,60,"['Sturdy', 'Rock Head', 'Heavy Metal']",Steel,Rock
+Lairon,Iron Armor,0.9,120,"['Sturdy', 'Rock Head', 'Heavy Metal']",Steel,Rock
+Aggron,Iron Armor,2.1,360,"['Sturdy', 'Rock Head', 'Heavy Metal']",Steel,Rock
+Meditite,Meditate,0.6,11.2,"['Pure Power', 'Telepathy']",Fighting,Psychic
+Medicham,Meditate,1.3,31.5,"['Pure Power', 'Telepathy']",Fighting,Psychic
+Electrike,Lightning,0.6,15.2,"['Static', 'Lightningrod', 'Minus']",Electric,
+Manectric,Discharge,1.5,40.2,"['Static', 'Lightningrod', 'Minus']",Electric,
+Plusle,Cheering,0.4,4.2,"['Plus', 'Lightningrod']",Electric,
+Minun,Cheering,0.4,4.2,"['Minus', 'Volt Absorb']",Electric,
+Volbeat,Firefly,0.7,17.7,"['Illuminate', 'Swarm', 'Prankster']",Bug,
+Illumise,Firefly,0.6,17.7,"['Oblivious', 'Tinted Lens', 'Prankster']",Bug,
+Roselia,Thorn,0.3,2,"['Natural Cure', 'Poison Point', 'Leaf Guard']",Grass,Poison
+Gulpin,Stomach,0.4,10.3,"['Liquid Ooze', 'Sticky Hold', 'Gluttony']",Poison,
+Swalot,Poison Bag,1.7,80,"['Liquid Ooze', 'Sticky Hold', 'Gluttony']",Poison,
+Carvanha,Savage,0.8,20.8,"['Rough Skin', 'Speed Boost']",Water,Dark
+Sharpedo,Brutal,1.8,88.8,"['Rough Skin', 'Speed Boost']",Water,Dark
+Wailmer,Ball Whale,2,130,"['Water Veil', 'Oblivious', 'Pressure']",Water,
+Wailord,Float Whale,14.5,398,"['Water Veil', 'Oblivious', 'Pressure']",Water,
+Numel,Numb,0.7,24,"['Oblivious', 'Simple', 'Own Tempo']",Fire,Ground
+Camerupt,Eruption,1.9,220,"['Magma Armor', 'Solid Rock', 'Anger Point']",Fire,Ground
+Torkoal,Coal,0.5,80.4,"['White Smoke', 'Drought', 'Shell Armor']",Fire,
+Spoink,Bounce,0.7,30.6,"['Thick Fat', 'Own Tempo', 'Gluttony']",Psychic,
+Grumpig,Manipulate,0.9,71.5,"['Thick Fat', 'Own Tempo', 'Gluttony']",Psychic,
+Spinda,Spot Panda,1.1,5,"['Own Tempo', 'Tangled Feet', 'Contrary']",Normal,
+Trapinch,Ant Pit,0.7,15,"['Hyper Cutter', 'Arena Trap', 'Sheer Force']",Ground,
+Vibrava,Vibration,1.1,15.3,['Levitate'],Ground,Dragon
+Flygon,Mystic,2,82,['Levitate'],Ground,Dragon
+Cacnea,Cactus,0.4,51.3,"['Sand Veil', 'Water Absorb']",Grass,
+Cacturne,Scarecrow,1.3,77.4,"['Sand Veil', 'Water Absorb']",Grass,Dark
+Swablu,Cotton Bird,0.4,1.2,"['Natural Cure', 'Cloud Nine']",Normal,Flying
+Altaria,Humming,1.1,20.6,"['Natural Cure', 'Cloud Nine']",Dragon,Flying
+Zangoose,Cat Ferret,1.3,40.3,"['Immunity', 'Toxic Boost']",Normal,
+Seviper,Fang Snake,2.7,52.5,"['Shed Skin', 'Infiltrator']",Poison,
+Lunatone,Meteorite,1,168,['Levitate'],Rock,Psychic
+Solrock,Meteorite,1.2,154,['Levitate'],Rock,Psychic
+Barboach,Whiskers,0.4,1.9,"['Oblivious', 'Anticipation', 'Hydration']",Water,Ground
+Whiscash,Whiskers,0.9,23.6,"['Oblivious', 'Anticipation', 'Hydration']",Water,Ground
+Corphish,Ruffian,0.6,11.5,"['Hyper Cutter', 'Shell Armor', 'Adaptability']",Water,
+Crawdaunt,Rogue,1.1,32.8,"['Hyper Cutter', 'Shell Armor', 'Adaptability']",Water,Dark
+Baltoy,Clay Doll,0.5,21.5,['Levitate'],Ground,Psychic
+Claydol,Clay Doll,1.5,108,['Levitate'],Ground,Psychic
+Lileep,Sea Lily,1,23.8,"['Suction Cups', 'Storm Drain']",Rock,Grass
+Cradily,Barnacle,1.5,60.4,"['Suction Cups', 'Storm Drain']",Rock,Grass
+Anorith,Old Shrimp,0.7,12.5,"['Battle Armor', 'Swift Swim']",Rock,Bug
+Armaldo,Plate,1.5,68.2,"['Battle Armor', 'Swift Swim']",Rock,Bug
+Feebas,Fish,0.6,7.4,"['Swift Swim', 'Oblivious', 'Adaptability']",Water,
+Milotic,Tender,6.2,162,"['Marvel Scale', 'Competitive', 'Cute Charm']",Water,
+Castform,Weather,0.3,0.8,['Forecast'],Normal,
+Kecleon,Color Swap,1,22,"['Color Change', 'Protean']",Normal,
+Shuppet,Puppet,0.6,2.3,"['Insomnia', 'Frisk', 'Cursed Body']",Ghost,
+Banette,Marionette,1.1,12.5,"['Insomnia', 'Frisk', 'Cursed Body']",Ghost,
+Duskull,Requiem,0.8,15,"['Levitate', 'Frisk']",Ghost,
+Dusclops,Beckon,1.6,30.6,"['Pressure', 'Frisk']",Ghost,
+Tropius,Fruit,2,100,"['Chlorophyll', 'Solar Power', 'Harvest']",Grass,Flying
+Chimecho,Wind Chime,0.6,1,['Levitate'],Psychic,
+Absol,Disaster,1.2,47,"['Pressure', 'Super Luck', 'Justified']",Dark,
+Wynaut,Bright,0.6,14,"['Shadow Tag', 'Telepathy']",Psychic,
+Snorunt,Snow Hat,0.7,16.8,"['Inner Focus', 'Ice Body', 'Moody']",Ice,
+Glalie,Face,1.5,256.5,"['Inner Focus', 'Ice Body', 'Moody']",Ice,
+Spheal,Clap,0.8,39.5,"['Thick Fat', 'Ice Body', 'Oblivious']",Ice,Water
+Sealeo,Ball Roll,1.1,87.6,"['Thick Fat', 'Ice Body', 'Oblivious']",Ice,Water
+Walrein,Ice Break,1.4,150.6,"['Thick Fat', 'Ice Body', 'Oblivious']",Ice,Water
+Clamperl,Bivalve,0.4,52.5,"['Shell Armor', 'Rattled']",Water,
+Huntail,Deep Sea,1.7,27,"['Swift Swim', 'Water Veil']",Water,
+Gorebyss,South Sea,1.8,22.6,"['Swift Swim', 'Hydration']",Water,
+Relicanth,Longevity,1,23.4,"['Swift Swim', 'Rock Head', 'Sturdy']",Water,Rock
+Luvdisc,Rendezvous,0.6,8.7,"['Swift Swim', 'Hydration']",Water,
+Bagon,Rock Head,0.6,42.1,"['Rock Head', 'Sheer Force']",Dragon,
+Shelgon,Endurance,1.1,110.5,"['Rock Head', 'Overcoat']",Dragon,
+Salamence,Dragon,1.5,102.6,"['Intimidate', 'Moxie']",Dragon,Flying
+Beldum,Iron Ball,0.6,95.2,"['Clear Body', 'Light Metal']",Steel,Psychic
+Metang,Iron Claw,1.2,202.5,"['Clear Body', 'Light Metal']",Steel,Psychic
+Metagross,Iron Leg,1.6,550,"['Clear Body', 'Light Metal']",Steel,Psychic
+Regirock,Rock Peak,1.7,230,"['Clear Body', 'Sturdy']",Rock,
+Regice,Iceberg,1.8,175,"['Clear Body', 'Ice Body']",Ice,
+Registeel,Iron,1.9,205,"['Clear Body', 'Light Metal']",Steel,
+Latias,Eon,1.4,40,['Levitate'],Dragon,Psychic
+Latios,Eon,2,60,['Levitate'],Dragon,Psychic
+Kyogre,Sea Basin,4.5,352,['Drizzle'],Water,
+Groudon,Continent,3.5,950,['Drought'],Ground,
+Rayquaza,Sky High,7,206.5,['Air Lock'],Dragon,Flying
+Jirachi,Wish,0.3,1.1,['Serene Grace'],Steel,Psychic
+Deoxys,DNA,1.7,60.8,['Pressure'],Psychic,
+Turtwig,Tiny Leaf,0.4,10.2,"['Overgrow', 'Shell Armor']",Grass,
+Grotle,Grove,1.1,97,"['Overgrow', 'Shell Armor']",Grass,
+Torterra,Continent,2.2,310,"['Overgrow', 'Shell Armor']",Grass,Ground
+Chimchar,Chimp,0.5,6.2,"['Blaze', 'Iron Fist']",Fire,
+Monferno,Playful,0.9,22,"['Blaze', 'Iron Fist']",Fire,Fighting
+Infernape,Flame,1.2,55,"['Blaze', 'Iron Fist']",Fire,Fighting
+Piplup,Penguin,0.4,5.2,"['Torrent', 'Defiant']",Water,
+Prinplup,Penguin,0.8,23,"['Torrent', 'Defiant']",Water,
+Empoleon,Emperor,1.7,84.5,"['Torrent', 'Defiant']",Water,Steel
+Starly,Starling,0.3,2,"['Keen Eye', 'Reckless']",Normal,Flying
+Staravia,Starling,0.6,15.5,"['Intimidate', 'Reckless']",Normal,Flying
+Staraptor,Predator,1.2,24.9,"['Intimidate', 'Reckless']",Normal,Flying
+Bidoof,Plump Mouse,0.5,20,"['Simple', 'Unaware', 'Moody']",Normal,
+Bibarel,Beaver,1,31.5,"['Simple', 'Unaware', 'Moody']",Normal,Water

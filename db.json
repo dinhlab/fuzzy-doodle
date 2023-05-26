@@ -1,0 +1,6433 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "bulbasaur",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/1.png",
+      "category": "seed",
+      "abilities": [
+        "Overgrow",
+        "Chlorophyll"
+      ],
+      "height": "1.12 m",
+      "weight": "19.29 kg"
+    },
+    {
+      "id": 2,
+      "name": "ivysaur",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/2.png",
+      "category": "seed",
+      "abilities": [
+        "Overgrow",
+        "Chlorophyll"
+      ],
+      "height": "9.02 m",
+      "weight": "28.49 kg"
+    },
+    {
+      "id": 3,
+      "name": "venusaur",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/3.png",
+      "category": "seed",
+      "abilities": [
+        "Overgrow",
+        "Chlorophyll"
+      ],
+      "height": "7 m",
+      "weight": "21.21 kg"
+    },
+    {
+      "id": 4,
+      "name": "charmander",
+      "types": [
+        "fire"
+      ],
+      "url": "http://localhost:3001/images/4.png",
+      "category": "lizard",
+      "abilities": [
+        "Blaze",
+        "Solar Power"
+      ],
+      "height": "1.15 m",
+      "weight": "37.67 kg"
+    },
+    {
+      "id": 5,
+      "name": "charmeleon",
+      "types": [
+        "fire"
+      ],
+      "url": "http://localhost:3001/images/5.png",
+      "category": "flame",
+      "abilities": [
+        "Blaze",
+        "Solar Power"
+      ],
+      "height": "6.3 m",
+      "weight": "13.38 kg"
+    },
+    {
+      "id": 6,
+      "name": "charizard",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/6.png",
+      "category": "flame",
+      "abilities": [
+        "Blaze",
+        "Solar Power"
+      ],
+      "height": "1.35 m",
+      "weight": "31.9 kg"
+    },
+    {
+      "id": 7,
+      "name": "squirtle",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/7.png",
+      "category": "tiny turtle",
+      "abilities": [
+        "Torrent",
+        "Rain Dish"
+      ],
+      "height": "1.72 m",
+      "weight": "40.82 kg"
+    },
+    {
+      "id": 8,
+      "name": "wartortle",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/8.png",
+      "category": "turtle",
+      "abilities": [
+        "Torrent",
+        "Rain Dish"
+      ],
+      "height": "1.27 m",
+      "weight": "18.72 kg"
+    },
+    {
+      "id": 9,
+      "name": "blastoise",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/9.png",
+      "category": "shellfish",
+      "abilities": [
+        "Torrent",
+        "Rain Dish"
+      ],
+      "height": "2.63 m",
+      "weight": "44.31 kg"
+    },
+    {
+      "id": 10,
+      "name": "caterpie",
+      "types": [
+        "bug"
+      ],
+      "url": "http://localhost:3001/images/10.png",
+      "category": "worm",
+      "abilities": [
+        "Shield Dust",
+        "Run Away"
+      ],
+      "height": "8.69 m",
+      "weight": "27.01 kg"
+    },
+    {
+      "id": 11,
+      "name": "metapod",
+      "types": [
+        "bug"
+      ],
+      "url": "http://localhost:3001/images/11.png",
+      "category": "cocoon",
+      "abilities": [
+        "Shed Skin"
+      ],
+      "height": "3.02 m",
+      "weight": "20.5 kg"
+    },
+    {
+      "id": 12,
+      "name": "butterfree",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/12.png",
+      "category": "butterfly",
+      "abilities": [
+        "Compoundeyes",
+        "Tinted Lens"
+      ],
+      "height": "4.13 m",
+      "weight": "28.87 kg"
+    },
+    {
+      "id": 13,
+      "name": "weedle",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/13.png",
+      "category": "hairy",
+      "abilities": [
+        "Shield Dust",
+        "Run Away"
+      ],
+      "height": "2.83 m",
+      "weight": "41.41 kg"
+    },
+    {
+      "id": 14,
+      "name": "kakuna",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/14.png",
+      "category": "cocoon",
+      "abilities": [
+        "Shed Skin"
+      ],
+      "height": "8.71 m",
+      "weight": "14.53 kg"
+    },
+    {
+      "id": 15,
+      "name": "beedrill",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/15.png",
+      "category": "poison bee",
+      "abilities": [
+        "Swarm",
+        "Sniper"
+      ],
+      "height": "7.64 m",
+      "weight": "27.29 kg"
+    },
+    {
+      "id": 16,
+      "name": "pidgey",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/16.png",
+      "category": "tiny bird",
+      "abilities": [
+        "Keen Eye",
+        "Tangled Feet",
+        "Big Pecks"
+      ],
+      "height": "9.84 m",
+      "weight": "41.88 kg"
+    },
+    {
+      "id": 17,
+      "name": "pidgeotto",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/17.png",
+      "category": "bird",
+      "abilities": [
+        "Keen Eye",
+        "Tangled Feet",
+        "Big Pecks"
+      ],
+      "height": "3.28 m",
+      "weight": "33.92 kg"
+    },
+    {
+      "id": 18,
+      "name": "pidgeot",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/18.png",
+      "category": "bird",
+      "abilities": [
+        "Keen Eye",
+        "Tangled Feet",
+        "Big Pecks"
+      ],
+      "height": "2.55 m",
+      "weight": "27.62 kg"
+    },
+    {
+      "id": 19,
+      "name": "rattata",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/19.png",
+      "category": "mouse",
+      "abilities": [
+        "Run Away",
+        "Guts",
+        "Hustle",
+        "Gluttony",
+        "Hustle",
+        "Thick Fat"
+      ],
+      "height": "8.86 m",
+      "weight": "10.79 kg"
+    },
+    {
+      "id": 20,
+      "name": "raticate",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/20.png",
+      "category": "mouse",
+      "abilities": [
+        "Run Away",
+        "Guts",
+        "Hustle",
+        "Gluttony",
+        "Hustle",
+        "Thick Fat"
+      ],
+      "height": "7.82 m",
+      "weight": "47.19 kg"
+    },
+    {
+      "id": 21,
+      "name": "spearow",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/21.png",
+      "category": "tiny bird",
+      "abilities": [
+        "Keen Eye",
+        "Sniper"
+      ],
+      "height": "3.93 m",
+      "weight": "44.5 kg"
+    },
+    {
+      "id": 22,
+      "name": "fearow",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/22.png",
+      "category": "beak",
+      "abilities": [
+        "Keen Eye",
+        "Sniper"
+      ],
+      "height": "8.01 m",
+      "weight": "28.04 kg"
+    },
+    {
+      "id": 23,
+      "name": "ekans",
+      "types": [
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/23.png",
+      "category": "snake",
+      "abilities": [
+        "Intimidate",
+        "Shed Skin",
+        "Unnerve"
+      ],
+      "height": "4.22 m",
+      "weight": "44.88 kg"
+    },
+    {
+      "id": 24,
+      "name": "arbok",
+      "types": [
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/24.png",
+      "category": "cobra",
+      "abilities": [
+        "Intimidate",
+        "Shed Skin",
+        "Unnerve"
+      ],
+      "height": "9.37 m",
+      "weight": "30.44 kg"
+    },
+    {
+      "id": 25,
+      "name": "pikachu",
+      "types": [
+        "electric"
+      ],
+      "url": "http://localhost:3001/images/25.png",
+      "category": "mouse",
+      "abilities": [
+        "Static",
+        "Lightningrod"
+      ],
+      "height": "7.53 m",
+      "weight": "47.01 kg"
+    },
+    {
+      "id": 26,
+      "name": "raichu",
+      "types": [
+        "electric"
+      ],
+      "url": "http://localhost:3001/images/26.png",
+      "category": "mouse",
+      "abilities": [
+        "Static",
+        "Lightningrod",
+        "Surge Surfer"
+      ],
+      "height": "8.29 m",
+      "weight": "33.05 kg"
+    },
+    {
+      "id": 27,
+      "name": "sandshrew",
+      "types": [
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/27.png",
+      "category": "mouse",
+      "abilities": [
+        "Sand Veil",
+        "Sand Rush",
+        "Snow Cloak",
+        "Slush Rush"
+      ],
+      "height": "3.29 m",
+      "weight": "25.81 kg"
+    },
+    {
+      "id": 28,
+      "name": "sandslash",
+      "types": [
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/28.png",
+      "category": "mouse",
+      "abilities": [
+        "Sand Veil",
+        "Sand Rush",
+        "Snow Cloak",
+        "Slush Rush"
+      ],
+      "height": "4.56 m",
+      "weight": "36.8 kg"
+    },
+    {
+      "id": 29,
+      "name": "nidoran♀",
+      "types": [
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/29.png",
+      "category": "poison pin",
+      "abilities": [
+        "Poison Point",
+        "Rivalry",
+        "Hustle"
+      ],
+      "height": "4.46 m",
+      "weight": "48.17 kg"
+    },
+    {
+      "id": 30,
+      "name": "nidorina",
+      "types": [
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/30.png",
+      "category": "poison pin",
+      "abilities": [
+        "Poison Point",
+        "Rivalry",
+        "Hustle"
+      ],
+      "height": "2.99 m",
+      "weight": "37.87 kg"
+    },
+    {
+      "id": 31,
+      "name": "nidoqueen",
+      "types": [
+        "poison",
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/31.png",
+      "category": "drill",
+      "abilities": [
+        "Poison Point",
+        "Rivalry",
+        "Sheer Force"
+      ],
+      "height": "6.28 m",
+      "weight": "37.88 kg"
+    },
+    {
+      "id": 32,
+      "name": "nidoran♂",
+      "types": [
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/32.png",
+      "category": "poison pin",
+      "abilities": [
+        "Poison Point",
+        "Rivalry",
+        "Hustle"
+      ],
+      "height": "8.79 m",
+      "weight": "44.69 kg"
+    },
+    {
+      "id": 33,
+      "name": "nidorino",
+      "types": [
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/33.png",
+      "category": "poison pin",
+      "abilities": [
+        "Poison Point",
+        "Rivalry",
+        "Hustle"
+      ],
+      "height": "6.1 m",
+      "weight": "15.72 kg"
+    },
+    {
+      "id": 34,
+      "name": "nidoking",
+      "types": [
+        "poison",
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/34.png",
+      "category": "drill",
+      "abilities": [
+        "Poison Point",
+        "Rivalry",
+        "Sheer Force"
+      ],
+      "height": "7.92 m",
+      "weight": "38.54 kg"
+    },
+    {
+      "id": 35,
+      "name": "clefairy",
+      "types": [
+        "fairy"
+      ],
+      "url": "http://localhost:3001/images/35.png",
+      "category": "fairy",
+      "abilities": [
+        "Cute Charm",
+        "Magic Guard",
+        "Friend Guard"
+      ],
+      "height": "6.82 m",
+      "weight": "32.76 kg"
+    },
+    {
+      "id": 36,
+      "name": "clefable",
+      "types": [
+        "fairy"
+      ],
+      "url": "http://localhost:3001/images/36.png",
+      "category": "fairy",
+      "abilities": [
+        "Cute Charm",
+        "Magic Guard",
+        "Unaware"
+      ],
+      "height": "4.82 m",
+      "weight": "42.8 kg"
+    },
+    {
+      "id": 37,
+      "name": "vulpix",
+      "types": [
+        "fire"
+      ],
+      "url": "http://localhost:3001/images/37.png",
+      "category": "fox",
+      "abilities": [
+        "Flash Fire",
+        "Drought",
+        "Snow Cloak",
+        "Snow Warning"
+      ],
+      "height": "2.14 m",
+      "weight": "19.95 kg"
+    },
+    {
+      "id": 38,
+      "name": "ninetales",
+      "types": [
+        "fire"
+      ],
+      "url": "http://localhost:3001/images/38.png",
+      "category": "fox",
+      "abilities": [
+        "Flash Fire",
+        "Drought",
+        "Snow Cloak",
+        "Snow Warning"
+      ],
+      "height": "6.34 m",
+      "weight": "25.28 kg"
+    },
+    {
+      "id": 39,
+      "name": "jigglypuff",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "url": "http://localhost:3001/images/39.png",
+      "category": "balloon",
+      "abilities": [
+        "Cute Charm",
+        "Competitive",
+        "Friend Guard"
+      ],
+      "height": "3.33 m",
+      "weight": "41.06 kg"
+    },
+    {
+      "id": 40,
+      "name": "wigglytuff",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "url": "http://localhost:3001/images/40.png",
+      "category": "balloon",
+      "abilities": [
+        "Cute Charm",
+        "Competitive",
+        "Frisk"
+      ],
+      "height": "7 m",
+      "weight": "17.15 kg"
+    },
+    {
+      "id": 41,
+      "name": "zubat",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/41.png",
+      "category": "bat",
+      "abilities": [
+        "Inner Focus",
+        "Infiltrator"
+      ],
+      "height": "6.79 m",
+      "weight": "27.59 kg"
+    },
+    {
+      "id": 42,
+      "name": "golbat",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/42.png",
+      "category": "bat",
+      "abilities": [
+        "Inner Focus",
+        "Infiltrator"
+      ],
+      "height": "6.96 m",
+      "weight": "40.22 kg"
+    },
+    {
+      "id": 43,
+      "name": "oddish",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/43.png",
+      "category": "weed",
+      "abilities": [
+        "Chlorophyll",
+        "Run Away"
+      ],
+      "height": "1.17 m",
+      "weight": "46.49 kg"
+    },
+    {
+      "id": 44,
+      "name": "gloom",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/44.png",
+      "category": "weed",
+      "abilities": [
+        "Chlorophyll",
+        "Stench"
+      ],
+      "height": "1.78 m",
+      "weight": "25.05 kg"
+    },
+    {
+      "id": 45,
+      "name": "vileplume",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/45.png",
+      "category": "flower",
+      "abilities": [
+        "Chlorophyll",
+        "Effect Spore"
+      ],
+      "height": "2.72 m",
+      "weight": "37.75 kg"
+    },
+    {
+      "id": 46,
+      "name": "paras",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "url": "http://localhost:3001/images/46.png",
+      "category": "mushroom",
+      "abilities": [
+        "Effect Spore",
+        "Dry Skin",
+        "Damp"
+      ],
+      "height": "8.9 m",
+      "weight": "42.97 kg"
+    },
+    {
+      "id": 47,
+      "name": "parasect",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "url": "http://localhost:3001/images/47.png",
+      "category": "mushroom",
+      "abilities": [
+        "Effect Spore",
+        "Dry Skin",
+        "Damp"
+      ],
+      "height": "6.62 m",
+      "weight": "36.34 kg"
+    },
+    {
+      "id": 48,
+      "name": "venonat",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/48.png",
+      "category": "insect",
+      "abilities": [
+        "Compoundeyes",
+        "Tinted Lens",
+        "Run Away"
+      ],
+      "height": "4.83 m",
+      "weight": "20.89 kg"
+    },
+    {
+      "id": 49,
+      "name": "venomoth",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/49.png",
+      "category": "poison moth",
+      "abilities": [
+        "Shield Dust",
+        "Tinted Lens",
+        "Wonder Skin "
+      ],
+      "height": "2.68 m",
+      "weight": "12.35 kg"
+    },
+    {
+      "id": 50,
+      "name": "diglett",
+      "types": [
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/50.png",
+      "category": "mole",
+      "abilities": [
+        "Sand Veil",
+        "Arena Trap",
+        "Sand Force",
+        "Sand Veil",
+        "Tangling Hair",
+        "Sand Force"
+      ],
+      "height": "2.38 m",
+      "weight": "48.24 kg"
+    },
+    {
+      "id": 51,
+      "name": "dugtrio",
+      "types": [
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/51.png",
+      "category": "mole",
+      "abilities": [
+        "Sand Veil",
+        "Arena Trap",
+        "Sand Force",
+        "Sand Veil",
+        "Tangling Hair",
+        "Sand Force"
+      ],
+      "height": "9.54 m",
+      "weight": "27.7 kg"
+    },
+    {
+      "id": 52,
+      "name": "meowth",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/52.png",
+      "category": "scratch cat",
+      "abilities": [
+        "Pickup",
+        "Technician",
+        "Unnerve",
+        "Pickup",
+        "Technician",
+        "Rattled"
+      ],
+      "height": "1.18 m",
+      "weight": "15.76 kg"
+    },
+    {
+      "id": 53,
+      "name": "persian",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/53.png",
+      "category": "classy cat",
+      "abilities": [
+        "Limber",
+        "Technician",
+        "Unnerve",
+        "Fur Coat",
+        "Technician",
+        "Rattled"
+      ],
+      "height": "9.23 m",
+      "weight": "13.53 kg"
+    },
+    {
+      "id": 54,
+      "name": "psyduck",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/54.png",
+      "category": "duck",
+      "abilities": [
+        "Damp",
+        "Cloud Nine",
+        "Swift Swim"
+      ],
+      "height": "2.01 m",
+      "weight": "11.88 kg"
+    },
+    {
+      "id": 55,
+      "name": "golduck",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/55.png",
+      "category": "duck",
+      "abilities": [
+        "Damp",
+        "Cloud Nine",
+        "Swift Swim"
+      ],
+      "height": "4.86 m",
+      "weight": "23 kg"
+    },
+    {
+      "id": 56,
+      "name": "mankey",
+      "types": [
+        "fighting"
+      ],
+      "url": "http://localhost:3001/images/56.png",
+      "category": "pig monkey",
+      "abilities": [
+        "Vital Spirit",
+        "Anger Point",
+        "Defiant"
+      ],
+      "height": "9.27 m",
+      "weight": "41.59 kg"
+    },
+    {
+      "id": 57,
+      "name": "primeape",
+      "types": [
+        "fighting"
+      ],
+      "url": "http://localhost:3001/images/57.png",
+      "category": "pig monkey",
+      "abilities": [
+        "Vital Spirit",
+        "Anger Point",
+        "Defiant"
+      ],
+      "height": "8.96 m",
+      "weight": "44.25 kg"
+    },
+    {
+      "id": 58,
+      "name": "growlithe",
+      "types": [
+        "fire"
+      ],
+      "url": "http://localhost:3001/images/58.png",
+      "category": "puppy",
+      "abilities": [
+        "Intimidate",
+        "Flash Fire",
+        "Justified"
+      ],
+      "height": "6.57 m",
+      "weight": "11.3 kg"
+    },
+    {
+      "id": 59,
+      "name": "arcanine",
+      "types": [
+        "fire"
+      ],
+      "url": "http://localhost:3001/images/59.png",
+      "category": "legendary",
+      "abilities": [
+        "Intimidate",
+        "Flash Fire",
+        "Justified"
+      ],
+      "height": "2.91 m",
+      "weight": "49.32 kg"
+    },
+    {
+      "id": 60,
+      "name": "poliwag",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/60.png",
+      "category": "tadpole",
+      "abilities": [
+        "Water Absorb",
+        "Damp",
+        "Swift Swim"
+      ],
+      "height": "4.12 m",
+      "weight": "14.4 kg"
+    },
+    {
+      "id": 61,
+      "name": "poliwhirl",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/61.png",
+      "category": "tadpole",
+      "abilities": [
+        "Water Absorb",
+        "Damp",
+        "Swift Swim"
+      ],
+      "height": "5.69 m",
+      "weight": "23.07 kg"
+    },
+    {
+      "id": 62,
+      "name": "poliwrath",
+      "types": [
+        "water",
+        "fighting"
+      ],
+      "url": "http://localhost:3001/images/62.png",
+      "category": "tadpole",
+      "abilities": [
+        "Water Absorb",
+        "Damp",
+        "Swift Swim"
+      ],
+      "height": "6.66 m",
+      "weight": "44.76 kg"
+    },
+    {
+      "id": 63,
+      "name": "abra",
+      "types": [
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/63.png",
+      "category": "psi",
+      "abilities": [
+        "Synchronize",
+        "Inner Focus",
+        "Magic Guard"
+      ],
+      "height": "4.3 m",
+      "weight": "12.84 kg"
+    },
+    {
+      "id": 64,
+      "name": "kadabra",
+      "types": [
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/64.png",
+      "category": "psi",
+      "abilities": [
+        "Synchronize",
+        "Inner Focus",
+        "Magic Guard"
+      ],
+      "height": "4.5 m",
+      "weight": "40.11 kg"
+    },
+    {
+      "id": 65,
+      "name": "alakazam",
+      "types": [
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/65.png",
+      "category": "psi",
+      "abilities": [
+        "Synchronize",
+        "Inner Focus",
+        "Magic Guard"
+      ],
+      "height": "5.26 m",
+      "weight": "40.3 kg"
+    },
+    {
+      "id": 66,
+      "name": "machop",
+      "types": [
+        "fighting"
+      ],
+      "url": "http://localhost:3001/images/66.png",
+      "category": "superpower",
+      "abilities": [
+        "Guts",
+        "No Guard",
+        "Steadfast"
+      ],
+      "height": "4.78 m",
+      "weight": "49.84 kg"
+    },
+    {
+      "id": 67,
+      "name": "machoke",
+      "types": [
+        "fighting"
+      ],
+      "url": "http://localhost:3001/images/67.png",
+      "category": "superpower",
+      "abilities": [
+        "Guts",
+        "No Guard",
+        "Steadfast"
+      ],
+      "height": "3.13 m",
+      "weight": "34.33 kg"
+    },
+    {
+      "id": 68,
+      "name": "machamp",
+      "types": [
+        "fighting"
+      ],
+      "url": "http://localhost:3001/images/68.png",
+      "category": "superpower",
+      "abilities": [
+        "Guts",
+        "No Guard",
+        "Steadfast"
+      ],
+      "height": "2.01 m",
+      "weight": "12.36 kg"
+    },
+    {
+      "id": 69,
+      "name": "bellsprout",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/69.png",
+      "category": "flower",
+      "abilities": [
+        "Chlorophyll",
+        "Gluttony"
+      ],
+      "height": "7.5 m",
+      "weight": "25.94 kg"
+    },
+    {
+      "id": 70,
+      "name": "weepinbell",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/70.png",
+      "category": "flycatcher",
+      "abilities": [
+        "Chlorophyll",
+        "Gluttony"
+      ],
+      "height": "4.41 m",
+      "weight": "39.55 kg"
+    },
+    {
+      "id": 71,
+      "name": "victreebel",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/71.png",
+      "category": "flycatcher",
+      "abilities": [
+        "Chlorophyll",
+        "Gluttony"
+      ],
+      "height": "2.47 m",
+      "weight": "36.23 kg"
+    },
+    {
+      "id": 72,
+      "name": "tentacool",
+      "types": [
+        "water",
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/72.png",
+      "category": "jellyfish",
+      "abilities": [
+        "Clear Body",
+        "Liquid Ooze",
+        "Rain Dish"
+      ],
+      "height": "4.39 m",
+      "weight": "19.27 kg"
+    },
+    {
+      "id": 73,
+      "name": "tentacruel",
+      "types": [
+        "water",
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/73.png",
+      "category": "jellyfish",
+      "abilities": [
+        "Clear Body",
+        "Liquid Ooze",
+        "Rain Dish"
+      ],
+      "height": "2.04 m",
+      "weight": "26.66 kg"
+    },
+    {
+      "id": 74,
+      "name": "geodude",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/74.png",
+      "category": "rock",
+      "abilities": [
+        "Rock Head",
+        "Sturdy",
+        "Sand Veil",
+        "Magnet Pull",
+        "Sturdy",
+        "Galvanize"
+      ],
+      "height": "9.49 m",
+      "weight": "43.81 kg"
+    },
+    {
+      "id": 75,
+      "name": "graveler",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/75.png",
+      "category": "rock",
+      "abilities": [
+        "Rock Head",
+        "Sturdy",
+        "Sand Veil",
+        "Magnet Pull",
+        "Sturdy",
+        "Galvanize"
+      ],
+      "height": "7.58 m",
+      "weight": "27.86 kg"
+    },
+    {
+      "id": 76,
+      "name": "golem",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/76.png",
+      "category": "megaton",
+      "abilities": [
+        "Rock Head",
+        "Sturdy",
+        "Sand Veil",
+        "Magnet Pull",
+        "Sturdy",
+        "Galvanize"
+      ],
+      "height": "8.45 m",
+      "weight": "23.2 kg"
+    },
+    {
+      "id": 77,
+      "name": "ponyta",
+      "types": [
+        "fire"
+      ],
+      "url": "http://localhost:3001/images/77.png",
+      "category": "fire horse",
+      "abilities": [
+        "Run Away",
+        "Flash Fire",
+        "Flame Body"
+      ],
+      "height": "8.61 m",
+      "weight": "39.39 kg"
+    },
+    {
+      "id": 78,
+      "name": "rapidash",
+      "types": [
+        "fire"
+      ],
+      "url": "http://localhost:3001/images/78.png",
+      "category": "fire horse",
+      "abilities": [
+        "Run Away",
+        "Flash Fire",
+        "Flame Body"
+      ],
+      "height": "8.55 m",
+      "weight": "36.48 kg"
+    },
+    {
+      "id": 79,
+      "name": "slowpoke",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/79.png",
+      "category": "dopey",
+      "abilities": [
+        "Oblivious",
+        "Own Tempo",
+        "Regenerator"
+      ],
+      "height": "8.27 m",
+      "weight": "33.07 kg"
+    },
+    {
+      "id": 80,
+      "name": "slowbro",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/80.png",
+      "category": "hermit crab",
+      "abilities": [
+        "Oblivious",
+        "Own Tempo",
+        "Regenerator"
+      ],
+      "height": "8.98 m",
+      "weight": "33.33 kg"
+    },
+    {
+      "id": 81,
+      "name": "magnemite",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "url": "http://localhost:3001/images/81.png",
+      "category": "magnet",
+      "abilities": [
+        "Magnet Pull",
+        "Sturdy",
+        "Analytic"
+      ],
+      "height": "7.14 m",
+      "weight": "15.27 kg"
+    },
+    {
+      "id": 82,
+      "name": "magneton",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "url": "http://localhost:3001/images/82.png",
+      "category": "magnet",
+      "abilities": [
+        "Magnet Pull",
+        "Sturdy",
+        "Analytic"
+      ],
+      "height": "9.04 m",
+      "weight": "24.59 kg"
+    },
+    {
+      "id": 83,
+      "name": "farfetch'd",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/83.png",
+      "category": "wild duck",
+      "abilities": [
+        "Keen Eye",
+        "Inner Focus",
+        "Defiant"
+      ],
+      "height": "7.56 m",
+      "weight": "32.48 kg"
+    },
+    {
+      "id": 84,
+      "name": "doduo",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/84.png",
+      "category": "twin bird",
+      "abilities": [
+        "Run Away",
+        "Early Bird",
+        "Tangled Feet"
+      ],
+      "height": "9.18 m",
+      "weight": "32.66 kg"
+    },
+    {
+      "id": 85,
+      "name": "dodrio",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/85.png",
+      "category": "triple bird",
+      "abilities": [
+        "Run Away",
+        "Early Bird",
+        "Tangled Feet"
+      ],
+      "height": "5.4 m",
+      "weight": "17.64 kg"
+    },
+    {
+      "id": 86,
+      "name": "seel",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/86.png",
+      "category": "sea lion",
+      "abilities": [
+        "Thick Fat",
+        "Hydration",
+        "Ice Body"
+      ],
+      "height": "4.98 m",
+      "weight": "14.98 kg"
+    },
+    {
+      "id": 87,
+      "name": "dewgong",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "url": "http://localhost:3001/images/87.png",
+      "category": "sea lion",
+      "abilities": [
+        "Thick Fat",
+        "Hydration",
+        "Ice Body"
+      ],
+      "height": "7.79 m",
+      "weight": "38.85 kg"
+    },
+    {
+      "id": 88,
+      "name": "grimer",
+      "types": [
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/88.png",
+      "category": "sludge",
+      "abilities": [
+        "Stench",
+        "Sticky Hold",
+        "Poison Touch",
+        "Poison Touch",
+        "Gluttony",
+        "Power of Alchemy"
+      ],
+      "height": "3.68 m",
+      "weight": "48.2 kg"
+    },
+    {
+      "id": 89,
+      "name": "muk",
+      "types": [
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/89.png",
+      "category": "sludge",
+      "abilities": [
+        "Stench",
+        "Sticky Hold",
+        "Poison Touch",
+        "Poison Touch",
+        "Gluttony",
+        "Power of Alchemy"
+      ],
+      "height": "6.73 m",
+      "weight": "31.14 kg"
+    },
+    {
+      "id": 90,
+      "name": "shellder",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/90.png",
+      "category": "bivalve",
+      "abilities": [
+        "Shell Armor",
+        "Skill Link",
+        "Overcoat"
+      ],
+      "height": "7.71 m",
+      "weight": "11.23 kg"
+    },
+    {
+      "id": 91,
+      "name": "cloyster",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "url": "http://localhost:3001/images/91.png",
+      "category": "bivalve",
+      "abilities": [
+        "Shell Armor",
+        "Skill Link",
+        "Overcoat"
+      ],
+      "height": "4.01 m",
+      "weight": "14.85 kg"
+    },
+    {
+      "id": 92,
+      "name": "gastly",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/92.png",
+      "category": "gas",
+      "abilities": [
+        "Levitate"
+      ],
+      "height": "5.14 m",
+      "weight": "16.91 kg"
+    },
+    {
+      "id": 93,
+      "name": "haunter",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/93.png",
+      "category": "gas",
+      "abilities": [
+        "Levitate"
+      ],
+      "height": "9.3 m",
+      "weight": "16.04 kg"
+    },
+    {
+      "id": 94,
+      "name": "gengar",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/94.png",
+      "category": "shadow",
+      "abilities": [
+        "Cursed Body"
+      ],
+      "height": "6.8 m",
+      "weight": "33.7 kg"
+    },
+    {
+      "id": 95,
+      "name": "onix",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/95.png",
+      "category": "rock snake",
+      "abilities": [
+        "Rock Head",
+        "Sturdy",
+        "Weak Armor"
+      ],
+      "height": "3.68 m",
+      "weight": "36.85 kg"
+    },
+    {
+      "id": 96,
+      "name": "drowzee",
+      "types": [
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/96.png",
+      "category": "hypnosis",
+      "abilities": [
+        "Insomnia",
+        "Forewarn",
+        "Inner Focus"
+      ],
+      "height": "5.06 m",
+      "weight": "41.18 kg"
+    },
+    {
+      "id": 97,
+      "name": "hypno",
+      "types": [
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/97.png",
+      "category": "hypnosis",
+      "abilities": [
+        "Insomnia",
+        "Forewarn",
+        "Inner Focus"
+      ],
+      "height": "7.56 m",
+      "weight": "37.31 kg"
+    },
+    {
+      "id": 98,
+      "name": "krabby",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/98.png",
+      "category": "river crab",
+      "abilities": [
+        "Hyper Cutter",
+        "Shell Armor",
+        "Sheer Force"
+      ],
+      "height": "9.22 m",
+      "weight": "41.29 kg"
+    },
+    {
+      "id": 99,
+      "name": "kingler",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/99.png",
+      "category": "pincer",
+      "abilities": [
+        "Hyper Cutter",
+        "Shell Armor",
+        "Sheer Force"
+      ],
+      "height": "8.41 m",
+      "weight": "30.44 kg"
+    },
+    {
+      "id": 100,
+      "name": "voltorb",
+      "types": [
+        "electric"
+      ],
+      "url": "http://localhost:3001/images/100.png",
+      "category": "ball",
+      "abilities": [
+        "Soundproof",
+        "Static",
+        "Aftermath"
+      ],
+      "height": "3.97 m",
+      "weight": "39.24 kg"
+    },
+    {
+      "id": 101,
+      "name": "electrode",
+      "types": [
+        "electric"
+      ],
+      "url": "http://localhost:3001/images/101.png",
+      "category": "ball",
+      "abilities": [
+        "Soundproof",
+        "Static",
+        "Aftermath"
+      ],
+      "height": "1.56 m",
+      "weight": "15.45 kg"
+    },
+    {
+      "id": 102,
+      "name": "exeggcute",
+      "types": [
+        "grass",
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/102.png",
+      "category": "egg",
+      "abilities": [
+        "Chlorophyll",
+        "Harvest"
+      ],
+      "height": "9.96 m",
+      "weight": "23.09 kg"
+    },
+    {
+      "id": 103,
+      "name": "exeggutor",
+      "types": [
+        "grass",
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/103.png",
+      "category": "coconut",
+      "abilities": [
+        "Chlorophyll",
+        "Harvest",
+        "Frisk",
+        "Harvest"
+      ],
+      "height": "6.83 m",
+      "weight": "20.87 kg"
+    },
+    {
+      "id": 104,
+      "name": "cubone",
+      "types": [
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/104.png",
+      "category": "lonely",
+      "abilities": [
+        "Rock Head",
+        "Lightningrod",
+        "Battle Armor"
+      ],
+      "height": "2.87 m",
+      "weight": "38.3 kg"
+    },
+    {
+      "id": 105,
+      "name": "marowak",
+      "types": [
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/105.png",
+      "category": "bone keeper",
+      "abilities": [
+        "Rock Head",
+        "Lightningrod",
+        "Battle Armor",
+        "Cursed Body",
+        "Lightningrod",
+        "Rock Head"
+      ],
+      "height": "6.05 m",
+      "weight": "26.16 kg"
+    },
+    {
+      "id": 106,
+      "name": "hitmonlee",
+      "types": [
+        "fighting"
+      ],
+      "url": "http://localhost:3001/images/106.png",
+      "category": "kicking",
+      "abilities": [
+        "Limber",
+        "Reckless",
+        "Unburden"
+      ],
+      "height": "9.14 m",
+      "weight": "29.11 kg"
+    },
+    {
+      "id": 107,
+      "name": "hitmonchan",
+      "types": [
+        "fighting"
+      ],
+      "url": "http://localhost:3001/images/107.png",
+      "category": "punching",
+      "abilities": [
+        "Keen Eye",
+        "Iron Fist",
+        "Inner Focus"
+      ],
+      "height": "2.4 m",
+      "weight": "27.19 kg"
+    },
+    {
+      "id": 108,
+      "name": "lickitung",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/108.png",
+      "category": "licking",
+      "abilities": [
+        "Own Tempo",
+        "Oblivious",
+        "Cloud Nine"
+      ],
+      "height": "9.86 m",
+      "weight": "39.12 kg"
+    },
+    {
+      "id": 109,
+      "name": "koffing",
+      "types": [
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/109.png",
+      "category": "poison gas",
+      "abilities": [
+        "Levitate"
+      ],
+      "height": "9.25 m",
+      "weight": "16.85 kg"
+    },
+    {
+      "id": 110,
+      "name": "weezing",
+      "types": [
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/110.png",
+      "category": "poison gas",
+      "abilities": [
+        "Levitate"
+      ],
+      "height": "6.71 m",
+      "weight": "26.58 kg"
+    },
+    {
+      "id": 111,
+      "name": "rhyhorn",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "url": "http://localhost:3001/images/111.png",
+      "category": "spikes",
+      "abilities": [
+        "Lightningrod",
+        "Rock Head",
+        "Reckless"
+      ],
+      "height": "3.55 m",
+      "weight": "39.63 kg"
+    },
+    {
+      "id": 112,
+      "name": "rhydon",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "url": "http://localhost:3001/images/112.png",
+      "category": "drill",
+      "abilities": [
+        "Lightningrod",
+        "Rock Head",
+        "Reckless"
+      ],
+      "height": "6.27 m",
+      "weight": "17.56 kg"
+    },
+    {
+      "id": 113,
+      "name": "chansey",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/113.png",
+      "category": "egg",
+      "abilities": [
+        "Natural Cure",
+        "Serene Grace",
+        "Healer"
+      ],
+      "height": "6.36 m",
+      "weight": "49.73 kg"
+    },
+    {
+      "id": 114,
+      "name": "tangela",
+      "types": [
+        "grass"
+      ],
+      "url": "http://localhost:3001/images/114.png",
+      "category": "vine",
+      "abilities": [
+        "Chlorophyll",
+        "Leaf Guard",
+        "Regenerator"
+      ],
+      "height": "5.18 m",
+      "weight": "23.98 kg"
+    },
+    {
+      "id": 115,
+      "name": "kangaskhan",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/115.png",
+      "category": "parent",
+      "abilities": [
+        "Early Bird",
+        "Scrappy",
+        "Inner Focus"
+      ],
+      "height": "9.09 m",
+      "weight": "25.17 kg"
+    },
+    {
+      "id": 116,
+      "name": "horsea",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/116.png",
+      "category": "dragon",
+      "abilities": [
+        "Swift Swim",
+        "Sniper",
+        "Damp"
+      ],
+      "height": "9.68 m",
+      "weight": "48.32 kg"
+    },
+    {
+      "id": 117,
+      "name": "seadra",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/117.png",
+      "category": "dragon",
+      "abilities": [
+        "Poison Point",
+        "Sniper",
+        "Damp"
+      ],
+      "height": "5.96 m",
+      "weight": "17.2 kg"
+    },
+    {
+      "id": 118,
+      "name": "goldeen",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/118.png",
+      "category": "goldfish",
+      "abilities": [
+        "Swift Swim",
+        "Water Veil",
+        "Lightningrod"
+      ],
+      "height": "1.27 m",
+      "weight": "14.8 kg"
+    },
+    {
+      "id": 119,
+      "name": "seaking",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/119.png",
+      "category": "goldfish",
+      "abilities": [
+        "Swift Swim",
+        "Water Veil",
+        "Lightningrod"
+      ],
+      "height": "3.39 m",
+      "weight": "42.33 kg"
+    },
+    {
+      "id": 120,
+      "name": "staryu",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/120.png",
+      "category": "starshape",
+      "abilities": [
+        "Illuminate",
+        "Natural Cure",
+        "Analytic"
+      ],
+      "height": "5.12 m",
+      "weight": "48.07 kg"
+    },
+    {
+      "id": 121,
+      "name": "starmie",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/121.png",
+      "category": "mysterious",
+      "abilities": [
+        "Illuminate",
+        "Natural Cure",
+        "Analytic"
+      ],
+      "height": "3.92 m",
+      "weight": "21.72 kg"
+    },
+    {
+      "id": 122,
+      "name": "mr. mime",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "url": "http://localhost:3001/images/122.png",
+      "category": "barrier",
+      "abilities": [
+        "Soundproof",
+        "Filter",
+        "Technician"
+      ],
+      "height": "3.46 m",
+      "weight": "44.7 kg"
+    },
+    {
+      "id": 123,
+      "name": "scyther",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/123.png",
+      "category": "mantis",
+      "abilities": [
+        "Swarm",
+        "Technician",
+        "Steadfast"
+      ],
+      "height": "4.64 m",
+      "weight": "42.57 kg"
+    },
+    {
+      "id": 124,
+      "name": "jynx",
+      "types": [
+        "ice",
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/124.png",
+      "category": "humanshape",
+      "abilities": [
+        "Oblivious",
+        "Forewarn",
+        "Dry Skin"
+      ],
+      "height": "8 m",
+      "weight": "41.26 kg"
+    },
+    {
+      "id": 125,
+      "name": "electabuzz",
+      "types": [
+        "electric"
+      ],
+      "url": "http://localhost:3001/images/125.png",
+      "category": "electric",
+      "abilities": [
+        "Static",
+        "Vital Spirit"
+      ],
+      "height": "1.93 m",
+      "weight": "34.04 kg"
+    },
+    {
+      "id": 126,
+      "name": "magmar",
+      "types": [
+        "fire"
+      ],
+      "url": "http://localhost:3001/images/126.png",
+      "category": "spitfire",
+      "abilities": [
+        "Flame Body",
+        "Vital Spirit"
+      ],
+      "height": "8.59 m",
+      "weight": "43.98 kg"
+    },
+    {
+      "id": 127,
+      "name": "pinsir",
+      "types": [
+        "bug"
+      ],
+      "url": "http://localhost:3001/images/127.png",
+      "category": "stagbeetle",
+      "abilities": [
+        "Hyper Cutter",
+        "Mold Breaker",
+        "Moxie"
+      ],
+      "height": "8.94 m",
+      "weight": "48.2 kg"
+    },
+    {
+      "id": 128,
+      "name": "tauros",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/128.png",
+      "category": "wild bull",
+      "abilities": [
+        "Intimidate",
+        "Anger Point",
+        "Sheer Force"
+      ],
+      "height": "4.81 m",
+      "weight": "31.88 kg"
+    },
+    {
+      "id": 129,
+      "name": "magikarp",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/129.png",
+      "category": "fish",
+      "abilities": [
+        "Swift Swim",
+        "Rattled"
+      ],
+      "height": "5.88 m",
+      "weight": "45.63 kg"
+    },
+    {
+      "id": 130,
+      "name": "gyarados",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/130.png",
+      "category": "atrocious",
+      "abilities": [
+        "Intimidate",
+        "Moxie"
+      ],
+      "height": "8.75 m",
+      "weight": "35.71 kg"
+    },
+    {
+      "id": 131,
+      "name": "lapras",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "url": "http://localhost:3001/images/131.png",
+      "category": "transport",
+      "abilities": [
+        "Water Absorb",
+        "Shell Armor",
+        "Hydration"
+      ],
+      "height": "7.86 m",
+      "weight": "15.81 kg"
+    },
+    {
+      "id": 132,
+      "name": "ditto",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/132.png",
+      "category": "transform",
+      "abilities": [
+        "Limber",
+        "Imposter"
+      ],
+      "height": "6.01 m",
+      "weight": "18.01 kg"
+    },
+    {
+      "id": 133,
+      "name": "eevee",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/133.png",
+      "category": "evolution",
+      "abilities": [
+        "Run Away",
+        "Adaptability",
+        "Anticipation"
+      ],
+      "height": "8.14 m",
+      "weight": "19.89 kg"
+    },
+    {
+      "id": 134,
+      "name": "vaporeon",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/134.png",
+      "category": "bubble jet",
+      "abilities": [
+        "Water Absorb",
+        "Hydration"
+      ],
+      "height": "7.95 m",
+      "weight": "35.27 kg"
+    },
+    {
+      "id": 135,
+      "name": "jolteon",
+      "types": [
+        "electric"
+      ],
+      "url": "http://localhost:3001/images/135.png",
+      "category": "lightning",
+      "abilities": [
+        "Volt Absorb",
+        "Quick Feet"
+      ],
+      "height": "1.77 m",
+      "weight": "34.47 kg"
+    },
+    {
+      "id": 136,
+      "name": "flareon",
+      "types": [
+        "fire"
+      ],
+      "url": "http://localhost:3001/images/136.png",
+      "category": "flame",
+      "abilities": [
+        "Flash Fire",
+        "Guts"
+      ],
+      "height": "7.71 m",
+      "weight": "32.95 kg"
+    },
+    {
+      "id": 137,
+      "name": "porygon",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/137.png",
+      "category": "virtual",
+      "abilities": [
+        "Trace",
+        "Download",
+        "Analytic"
+      ],
+      "height": "2.91 m",
+      "weight": "39.62 kg"
+    },
+    {
+      "id": 138,
+      "name": "omanyte",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "url": "http://localhost:3001/images/138.png",
+      "category": "spiral",
+      "abilities": [
+        "Swift Swim",
+        "Shell Armor",
+        "Weak Armor"
+      ],
+      "height": "7.72 m",
+      "weight": "29.85 kg"
+    },
+    {
+      "id": 139,
+      "name": "omastar",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "url": "http://localhost:3001/images/139.png",
+      "category": "spiral",
+      "abilities": [
+        "Swift Swim",
+        "Shell Armor",
+        "Weak Armor"
+      ],
+      "height": "1.67 m",
+      "weight": "33.48 kg"
+    },
+    {
+      "id": 140,
+      "name": "kabuto",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "url": "http://localhost:3001/images/140.png",
+      "category": "shellfish",
+      "abilities": [
+        "Swift Swim",
+        "Battle Armor",
+        "Weak Armor"
+      ],
+      "height": "5.73 m",
+      "weight": "33.91 kg"
+    },
+    {
+      "id": 141,
+      "name": "kabutops",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "url": "http://localhost:3001/images/141.png",
+      "category": "shellfish",
+      "abilities": [
+        "Swift Swim",
+        "Battle Armor",
+        "Weak Armor"
+      ],
+      "height": "1.7 m",
+      "weight": "35.68 kg"
+    },
+    {
+      "id": 142,
+      "name": "aerodactyl",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/142.png",
+      "category": "fossil",
+      "abilities": [
+        "Rock Head",
+        "Pressure",
+        "Unnerve"
+      ],
+      "height": "5.11 m",
+      "weight": "49.03 kg"
+    },
+    {
+      "id": 143,
+      "name": "snorlax",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/143.png",
+      "category": "sleeping",
+      "abilities": [
+        "Immunity",
+        "Thick Fat",
+        "Gluttony"
+      ],
+      "height": "8.95 m",
+      "weight": "18.34 kg"
+    },
+    {
+      "id": 144,
+      "name": "articuno",
+      "types": [
+        "ice",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/144.png",
+      "category": "freeze",
+      "abilities": [
+        "Pressure",
+        "Snow Cloak"
+      ],
+      "height": "5.27 m",
+      "weight": "20.42 kg"
+    },
+    {
+      "id": 145,
+      "name": "zapdos",
+      "types": [
+        "electric",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/145.png",
+      "category": "electric",
+      "abilities": [
+        "Pressure",
+        "Static"
+      ],
+      "height": "8.31 m",
+      "weight": "29.29 kg"
+    },
+    {
+      "id": 146,
+      "name": "moltres",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/146.png",
+      "category": "flame",
+      "abilities": [
+        "Pressure",
+        "Flame Body"
+      ],
+      "height": "3.52 m",
+      "weight": "46.27 kg"
+    },
+    {
+      "id": 147,
+      "name": "dratini",
+      "types": [
+        "dragon"
+      ],
+      "url": "http://localhost:3001/images/147.png",
+      "category": "dragon",
+      "abilities": [
+        "Shed Skin",
+        "Marvel Scale"
+      ],
+      "height": "2.91 m",
+      "weight": "19.82 kg"
+    },
+    {
+      "id": 148,
+      "name": "dragonair",
+      "types": [
+        "dragon"
+      ],
+      "url": "http://localhost:3001/images/148.png",
+      "category": "dragon",
+      "abilities": [
+        "Shed Skin",
+        "Marvel Scale"
+      ],
+      "height": "2.79 m",
+      "weight": "31.87 kg"
+    },
+    {
+      "id": 149,
+      "name": "dragonite",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/149.png",
+      "category": "dragon",
+      "abilities": [
+        "Inner Focus",
+        "Multiscale"
+      ],
+      "height": "5.96 m",
+      "weight": "10.23 kg"
+    },
+    {
+      "id": 150,
+      "name": "mewtwo",
+      "types": [
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/150.png",
+      "category": "genetic",
+      "abilities": [
+        "Pressure",
+        "Unnerve"
+      ],
+      "height": "2.45 m",
+      "weight": "15.9 kg"
+    },
+    {
+      "id": 151,
+      "name": "mew",
+      "types": [
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/151.png",
+      "category": "new species",
+      "abilities": [
+        "Synchronize"
+      ],
+      "height": "8.84 m",
+      "weight": "48.97 kg"
+    },
+    {
+      "id": 152,
+      "name": "chikorita",
+      "types": [
+        "grass"
+      ],
+      "url": "http://localhost:3001/images/152.png",
+      "category": "leaf",
+      "abilities": [
+        "Overgrow",
+        "Leaf Guard"
+      ],
+      "height": "5.6 m",
+      "weight": "45.63 kg"
+    },
+    {
+      "id": 153,
+      "name": "bayleef",
+      "types": [
+        "grass"
+      ],
+      "url": "http://localhost:3001/images/153.png",
+      "category": "leaf",
+      "abilities": [
+        "Overgrow",
+        "Leaf Guard"
+      ],
+      "height": "8.32 m",
+      "weight": "27.23 kg"
+    },
+    {
+      "id": 154,
+      "name": "meganium",
+      "types": [
+        "grass"
+      ],
+      "url": "http://localhost:3001/images/154.png",
+      "category": "herb",
+      "abilities": [
+        "Overgrow",
+        "Leaf Guard"
+      ],
+      "height": "3.28 m",
+      "weight": "19.48 kg"
+    },
+    {
+      "id": 155,
+      "name": "cyndaquil",
+      "types": [
+        "fire"
+      ],
+      "url": "http://localhost:3001/images/155.png",
+      "category": "fire mouse",
+      "abilities": [
+        "Blaze",
+        "Flash Fire"
+      ],
+      "height": "9.56 m",
+      "weight": "36.93 kg"
+    },
+    {
+      "id": 156,
+      "name": "quilava",
+      "types": [
+        "fire"
+      ],
+      "url": "http://localhost:3001/images/156.png",
+      "category": "volcano",
+      "abilities": [
+        "Blaze",
+        "Flash Fire"
+      ],
+      "height": "3.78 m",
+      "weight": "47.52 kg"
+    },
+    {
+      "id": 157,
+      "name": "typhlosion",
+      "types": [
+        "fire"
+      ],
+      "url": "http://localhost:3001/images/157.png",
+      "category": "volcano",
+      "abilities": [
+        "Blaze",
+        "Flash Fire"
+      ],
+      "height": "3.91 m",
+      "weight": "48.04 kg"
+    },
+    {
+      "id": 158,
+      "name": "totodile",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/158.png",
+      "category": "big jaw",
+      "abilities": [
+        "Torrent",
+        "Sheer Force"
+      ],
+      "height": "1.1 m",
+      "weight": "41.49 kg"
+    },
+    {
+      "id": 159,
+      "name": "croconaw",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/159.png",
+      "category": "big jaw",
+      "abilities": [
+        "Torrent",
+        "Sheer Force"
+      ],
+      "height": "4.33 m",
+      "weight": "47.2 kg"
+    },
+    {
+      "id": 160,
+      "name": "feraligatr",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/160.png",
+      "category": "big jaw",
+      "abilities": [
+        "Torrent",
+        "Sheer Force"
+      ],
+      "height": "1.25 m",
+      "weight": "18.12 kg"
+    },
+    {
+      "id": 161,
+      "name": "sentret",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/161.png",
+      "category": "scout",
+      "abilities": [
+        "Run Away",
+        "Keen Eye",
+        "Frisk"
+      ],
+      "height": "4.23 m",
+      "weight": "23.71 kg"
+    },
+    {
+      "id": 162,
+      "name": "furret",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/162.png",
+      "category": "long body",
+      "abilities": [
+        "Run Away",
+        "Keen Eye",
+        "Frisk"
+      ],
+      "height": "7.19 m",
+      "weight": "30.97 kg"
+    },
+    {
+      "id": 163,
+      "name": "hoothoot",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/163.png",
+      "category": "owl",
+      "abilities": [
+        "Insomnia",
+        "Keen Eye",
+        "Tinted Lens"
+      ],
+      "height": "4.24 m",
+      "weight": "15.29 kg"
+    },
+    {
+      "id": 164,
+      "name": "noctowl",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/164.png",
+      "category": "owl",
+      "abilities": [
+        "Insomnia",
+        "Keen Eye",
+        "Tinted Lens"
+      ],
+      "height": "6.58 m",
+      "weight": "26.56 kg"
+    },
+    {
+      "id": 165,
+      "name": "ledyba",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/165.png",
+      "category": "five star",
+      "abilities": [
+        "Swarm",
+        "Early Bird",
+        "Rattled"
+      ],
+      "height": "4.43 m",
+      "weight": "19.85 kg"
+    },
+    {
+      "id": 166,
+      "name": "ledian",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/166.png",
+      "category": "five star",
+      "abilities": [
+        "Swarm",
+        "Early Bird",
+        "Iron Fist"
+      ],
+      "height": "6.39 m",
+      "weight": "43.58 kg"
+    },
+    {
+      "id": 167,
+      "name": "spinarak",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/167.png",
+      "category": "string spit",
+      "abilities": [
+        "Swarm",
+        "Insomnia",
+        "Sniper"
+      ],
+      "height": "3.26 m",
+      "weight": "48.72 kg"
+    },
+    {
+      "id": 168,
+      "name": "ariados",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/168.png",
+      "category": "long leg",
+      "abilities": [
+        "Swarm",
+        "Insomnia",
+        "Sniper"
+      ],
+      "height": "1.12 m",
+      "weight": "35.77 kg"
+    },
+    {
+      "id": 169,
+      "name": "crobat",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/169.png",
+      "category": "bat",
+      "abilities": [
+        "Inner Focus",
+        "Infiltrator"
+      ],
+      "height": "4.33 m",
+      "weight": "11.94 kg"
+    },
+    {
+      "id": 170,
+      "name": "chinchou",
+      "types": [
+        "water",
+        "electric"
+      ],
+      "url": "http://localhost:3001/images/170.png",
+      "category": "angler",
+      "abilities": [
+        "Volt Absorb",
+        "Illuminate",
+        "Water Absorb"
+      ],
+      "height": "1.49 m",
+      "weight": "23.7 kg"
+    },
+    {
+      "id": 171,
+      "name": "lanturn",
+      "types": [
+        "water",
+        "electric"
+      ],
+      "url": "http://localhost:3001/images/171.png",
+      "category": "light",
+      "abilities": [
+        "Volt Absorb",
+        "Illuminate",
+        "Water Absorb"
+      ],
+      "height": "1.16 m",
+      "weight": "27.11 kg"
+    },
+    {
+      "id": 172,
+      "name": "pichu",
+      "types": [
+        "electric"
+      ],
+      "url": "http://localhost:3001/images/172.png",
+      "category": "tiny mouse",
+      "abilities": [
+        "Static",
+        "Lightningrod"
+      ],
+      "height": "6.03 m",
+      "weight": "12.21 kg"
+    },
+    {
+      "id": 173,
+      "name": "cleffa",
+      "types": [
+        "fairy"
+      ],
+      "url": "http://localhost:3001/images/173.png",
+      "category": "star shape",
+      "abilities": [
+        "Cute Charm",
+        "Magic Guard",
+        "Friend Guard"
+      ],
+      "height": "8.54 m",
+      "weight": "35.76 kg"
+    },
+    {
+      "id": 174,
+      "name": "igglybuff",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "url": "http://localhost:3001/images/174.png",
+      "category": "balloon",
+      "abilities": [
+        "Cute Charm",
+        "Competitive",
+        "Friend Guard"
+      ],
+      "height": "5.5 m",
+      "weight": "29.74 kg"
+    },
+    {
+      "id": 175,
+      "name": "togepi",
+      "types": [
+        "fairy"
+      ],
+      "url": "http://localhost:3001/images/175.png",
+      "category": "spike ball",
+      "abilities": [
+        "Hustle",
+        "Serene Grace",
+        "Super Luck"
+      ],
+      "height": "5.39 m",
+      "weight": "20.85 kg"
+    },
+    {
+      "id": 176,
+      "name": "togetic",
+      "types": [
+        "fairy",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/176.png",
+      "category": "happiness",
+      "abilities": [
+        "Hustle",
+        "Serene Grace",
+        "Super Luck"
+      ],
+      "height": "5.9 m",
+      "weight": "13.15 kg"
+    },
+    {
+      "id": 177,
+      "name": "natu",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/177.png",
+      "category": "little bird",
+      "abilities": [
+        "Synchronize",
+        "Early Bird",
+        "Magic Bounce"
+      ],
+      "height": "2.17 m",
+      "weight": "46.43 kg"
+    },
+    {
+      "id": 178,
+      "name": "xatu",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/178.png",
+      "category": "mystic",
+      "abilities": [
+        "Synchronize",
+        "Early Bird",
+        "Magic Bounce"
+      ],
+      "height": "9.25 m",
+      "weight": "23.26 kg"
+    },
+    {
+      "id": 179,
+      "name": "mareep",
+      "types": [
+        "electric"
+      ],
+      "url": "http://localhost:3001/images/179.png",
+      "category": "wool",
+      "abilities": [
+        "Static",
+        "Plus"
+      ],
+      "height": "6.75 m",
+      "weight": "19.58 kg"
+    },
+    {
+      "id": 180,
+      "name": "flaaffy",
+      "types": [
+        "electric"
+      ],
+      "url": "http://localhost:3001/images/180.png",
+      "category": "wool",
+      "abilities": [
+        "Static",
+        "Plus"
+      ],
+      "height": "6.3 m",
+      "weight": "23.8 kg"
+    },
+    {
+      "id": 181,
+      "name": "ampharos",
+      "types": [
+        "electric"
+      ],
+      "url": "http://localhost:3001/images/181.png",
+      "category": "light",
+      "abilities": [
+        "Static",
+        "Plus"
+      ],
+      "height": "7.13 m",
+      "weight": "49.62 kg"
+    },
+    {
+      "id": 182,
+      "name": "bellossom",
+      "types": [
+        "grass"
+      ],
+      "url": "http://localhost:3001/images/182.png",
+      "category": "flower",
+      "abilities": [
+        "Chlorophyll",
+        "Healer"
+      ],
+      "height": "4.44 m",
+      "weight": "13.95 kg"
+    },
+    {
+      "id": 183,
+      "name": "marill",
+      "types": [
+        "water",
+        "fairy"
+      ],
+      "url": "http://localhost:3001/images/183.png",
+      "category": "aquamouse",
+      "abilities": [
+        "Thick Fat",
+        "Huge Power",
+        "Sap Sipper"
+      ],
+      "height": "4.93 m",
+      "weight": "18.2 kg"
+    },
+    {
+      "id": 184,
+      "name": "azumarill",
+      "types": [
+        "water",
+        "fairy"
+      ],
+      "url": "http://localhost:3001/images/184.png",
+      "category": "aquarabbit",
+      "abilities": [
+        "Thick Fat",
+        "Huge Power",
+        "Sap Sipper"
+      ],
+      "height": "1.16 m",
+      "weight": "25.53 kg"
+    },
+    {
+      "id": 185,
+      "name": "sudowoodo",
+      "types": [
+        "rock"
+      ],
+      "url": "http://localhost:3001/images/185.png",
+      "category": "imitation",
+      "abilities": [
+        "Sturdy",
+        "Rock Head",
+        "Rattled"
+      ],
+      "height": "4.66 m",
+      "weight": "29.85 kg"
+    },
+    {
+      "id": 186,
+      "name": "politoed",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/186.png",
+      "category": "frog",
+      "abilities": [
+        "Water Absorb",
+        "Damp",
+        "Drizzle"
+      ],
+      "height": "1.24 m",
+      "weight": "26.04 kg"
+    },
+    {
+      "id": 187,
+      "name": "hoppip",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/187.png",
+      "category": "cottonweed",
+      "abilities": [
+        "Chlorophyll",
+        "Leaf Guard",
+        "Infiltrator"
+      ],
+      "height": "9.96 m",
+      "weight": "40.92 kg"
+    },
+    {
+      "id": 188,
+      "name": "skiploom",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/188.png",
+      "category": "cottonweed",
+      "abilities": [
+        "Chlorophyll",
+        "Leaf Guard",
+        "Infiltrator"
+      ],
+      "height": "6.58 m",
+      "weight": "10.91 kg"
+    },
+    {
+      "id": 189,
+      "name": "jumpluff",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/189.png",
+      "category": "cottonweed",
+      "abilities": [
+        "Chlorophyll",
+        "Leaf Guard",
+        "Infiltrator"
+      ],
+      "height": "8.4 m",
+      "weight": "40.13 kg"
+    },
+    {
+      "id": 190,
+      "name": "aipom",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/190.png",
+      "category": "long tail",
+      "abilities": [
+        "Run Away",
+        "Pickup",
+        "Skill Link"
+      ],
+      "height": "6.86 m",
+      "weight": "22.51 kg"
+    },
+    {
+      "id": 191,
+      "name": "sunkern",
+      "types": [
+        "grass"
+      ],
+      "url": "http://localhost:3001/images/191.png",
+      "category": "seed",
+      "abilities": [
+        "Chlorophyll",
+        "Solar Power",
+        "Early Bird"
+      ],
+      "height": "1.43 m",
+      "weight": "37.58 kg"
+    },
+    {
+      "id": 192,
+      "name": "sunflora",
+      "types": [
+        "grass"
+      ],
+      "url": "http://localhost:3001/images/192.png",
+      "category": "sun",
+      "abilities": [
+        "Chlorophyll",
+        "Solar Power",
+        "Early Bird"
+      ],
+      "height": "6.05 m",
+      "weight": "38.88 kg"
+    },
+    {
+      "id": 193,
+      "name": "yanma",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/193.png",
+      "category": "clear wing",
+      "abilities": [
+        "Speed Boost",
+        "Compoundeyes",
+        "Frisk"
+      ],
+      "height": "3.07 m",
+      "weight": "32.89 kg"
+    },
+    {
+      "id": 194,
+      "name": "wooper",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/194.png",
+      "category": "water fish",
+      "abilities": [
+        "Damp",
+        "Water Absorb",
+        "Unaware"
+      ],
+      "height": "5.46 m",
+      "weight": "32.31 kg"
+    },
+    {
+      "id": 195,
+      "name": "quagsire",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/195.png",
+      "category": "water fish",
+      "abilities": [
+        "Damp",
+        "Water Absorb",
+        "Unaware"
+      ],
+      "height": "3.84 m",
+      "weight": "34.06 kg"
+    },
+    {
+      "id": 196,
+      "name": "espeon",
+      "types": [
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/196.png",
+      "category": "sun",
+      "abilities": [
+        "Synchronize",
+        "Magic Bounce"
+      ],
+      "height": "6.8 m",
+      "weight": "46.97 kg"
+    },
+    {
+      "id": 197,
+      "name": "umbreon",
+      "types": [
+        "dark"
+      ],
+      "url": "http://localhost:3001/images/197.png",
+      "category": "moonlight",
+      "abilities": [
+        "Synchronize",
+        "Inner Focus"
+      ],
+      "height": "2.51 m",
+      "weight": "48.12 kg"
+    },
+    {
+      "id": 198,
+      "name": "murkrow",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/198.png",
+      "category": "darkness",
+      "abilities": [
+        "Insomnia",
+        "Super Luck",
+        "Prankster"
+      ],
+      "height": "6.42 m",
+      "weight": "24.28 kg"
+    },
+    {
+      "id": 199,
+      "name": "slowking",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/199.png",
+      "category": "royal",
+      "abilities": [
+        "Oblivious",
+        "Own Tempo",
+        "Regenerator"
+      ],
+      "height": "8.59 m",
+      "weight": "38.89 kg"
+    },
+    {
+      "id": 200,
+      "name": "misdreavus",
+      "types": [
+        "ghost"
+      ],
+      "url": "http://localhost:3001/images/200.png",
+      "category": "screech",
+      "abilities": [
+        "Levitate"
+      ],
+      "height": "4.86 m",
+      "weight": "19.56 kg"
+    },
+    {
+      "id": 201,
+      "name": "unown",
+      "types": [
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/201.png",
+      "category": "symbol",
+      "abilities": [
+        "Levitate"
+      ],
+      "height": "3.86 m",
+      "weight": "45.03 kg"
+    },
+    {
+      "id": 202,
+      "name": "wobbuffet",
+      "types": [
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/202.png",
+      "category": "patient",
+      "abilities": [
+        "Shadow Tag",
+        "Telepathy"
+      ],
+      "height": "6.83 m",
+      "weight": "30.61 kg"
+    },
+    {
+      "id": 203,
+      "name": "girafarig",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/203.png",
+      "category": "long neck",
+      "abilities": [
+        "Inner Focus",
+        "Early Bird",
+        "Sap Sipper"
+      ],
+      "height": "2.16 m",
+      "weight": "43.33 kg"
+    },
+    {
+      "id": 204,
+      "name": "pineco",
+      "types": [
+        "bug"
+      ],
+      "url": "http://localhost:3001/images/204.png",
+      "category": "bagworm",
+      "abilities": [
+        "Sturdy",
+        "Overcoat"
+      ],
+      "height": "4.18 m",
+      "weight": "14.71 kg"
+    },
+    {
+      "id": 205,
+      "name": "forretress",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "url": "http://localhost:3001/images/205.png",
+      "category": "bagworm",
+      "abilities": [
+        "Sturdy",
+        "Overcoat"
+      ],
+      "height": "1.32 m",
+      "weight": "24.68 kg"
+    },
+    {
+      "id": 206,
+      "name": "dunsparce",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/206.png",
+      "category": "land snake",
+      "abilities": [
+        "Serene Grace",
+        "Run Away",
+        "Rattled"
+      ],
+      "height": "7.84 m",
+      "weight": "40.69 kg"
+    },
+    {
+      "id": 207,
+      "name": "gligar",
+      "types": [
+        "ground",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/207.png",
+      "category": "flyscorpion",
+      "abilities": [
+        "Hyper Cutter",
+        "Sand Veil",
+        "Immunity"
+      ],
+      "height": "8.51 m",
+      "weight": "10.66 kg"
+    },
+    {
+      "id": 208,
+      "name": "steelix",
+      "types": [
+        "steel",
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/208.png",
+      "category": "iron snake",
+      "abilities": [
+        "Rock Head",
+        "Sturdy",
+        "Sheer Force"
+      ],
+      "height": "9.5 m",
+      "weight": "40.14 kg"
+    },
+    {
+      "id": 209,
+      "name": "snubbull",
+      "types": [
+        "fairy"
+      ],
+      "url": "http://localhost:3001/images/209.png",
+      "category": "fairy",
+      "abilities": [
+        "Intimidate",
+        "Run Away",
+        "Rattled"
+      ],
+      "height": "4.97 m",
+      "weight": "28.65 kg"
+    },
+    {
+      "id": 210,
+      "name": "granbull",
+      "types": [
+        "fairy"
+      ],
+      "url": "http://localhost:3001/images/210.png",
+      "category": "fairy",
+      "abilities": [
+        "Intimidate",
+        "Quick Feet",
+        "Rattled"
+      ],
+      "height": "6.43 m",
+      "weight": "29.44 kg"
+    },
+    {
+      "id": 211,
+      "name": "qwilfish",
+      "types": [
+        "water",
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/211.png",
+      "category": "balloon",
+      "abilities": [
+        "Poison Point",
+        "Swift Swim",
+        "Intimidate"
+      ],
+      "height": "9.51 m",
+      "weight": "22.52 kg"
+    },
+    {
+      "id": 212,
+      "name": "scizor",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "url": "http://localhost:3001/images/212.png",
+      "category": "pincer",
+      "abilities": [
+        "Swarm",
+        "Technician",
+        "Light Metal"
+      ],
+      "height": "7.94 m",
+      "weight": "43.82 kg"
+    },
+    {
+      "id": 213,
+      "name": "shuckle",
+      "types": [
+        "bug",
+        "rock"
+      ],
+      "url": "http://localhost:3001/images/213.png",
+      "category": "mold",
+      "abilities": [
+        "Sturdy",
+        "Gluttony",
+        "Contrary"
+      ],
+      "height": "2.69 m",
+      "weight": "24.43 kg"
+    },
+    {
+      "id": 214,
+      "name": "heracross",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "url": "http://localhost:3001/images/214.png",
+      "category": "singlehorn",
+      "abilities": [
+        "Swarm",
+        "Guts",
+        "Moxie"
+      ],
+      "height": "9.68 m",
+      "weight": "22.42 kg"
+    },
+    {
+      "id": 215,
+      "name": "sneasel",
+      "types": [
+        "dark",
+        "ice"
+      ],
+      "url": "http://localhost:3001/images/215.png",
+      "category": "sharp claw",
+      "abilities": [
+        "Inner Focus",
+        "Keen Eye",
+        "Pickpocket"
+      ],
+      "height": "6.31 m",
+      "weight": "48.4 kg"
+    },
+    {
+      "id": 216,
+      "name": "teddiursa",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/216.png",
+      "category": "little bear",
+      "abilities": [
+        "Pickup",
+        "Quick Feet",
+        "Honey Gather"
+      ],
+      "height": "6.34 m",
+      "weight": "35.66 kg"
+    },
+    {
+      "id": 217,
+      "name": "ursaring",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/217.png",
+      "category": "hibernator",
+      "abilities": [
+        "Guts",
+        "Quick Feet",
+        "Unnerve"
+      ],
+      "height": "3.06 m",
+      "weight": "25.94 kg"
+    },
+    {
+      "id": 218,
+      "name": "slugma",
+      "types": [
+        "fire"
+      ],
+      "url": "http://localhost:3001/images/218.png",
+      "category": "lava",
+      "abilities": [
+        "Magma Armor",
+        "Flame Body",
+        "Weak Armor"
+      ],
+      "height": "6.23 m",
+      "weight": "31.61 kg"
+    },
+    {
+      "id": 219,
+      "name": "magcargo",
+      "types": [
+        "fire",
+        "rock"
+      ],
+      "url": "http://localhost:3001/images/219.png",
+      "category": "lava",
+      "abilities": [
+        "Magma Armor",
+        "Flame Body",
+        "Weak Armor"
+      ],
+      "height": "5.17 m",
+      "weight": "45.46 kg"
+    },
+    {
+      "id": 220,
+      "name": "swinub",
+      "types": [
+        "ice",
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/220.png",
+      "category": "pig",
+      "abilities": [
+        "Oblivious",
+        "Snow Cloak",
+        "Thick Fat"
+      ],
+      "height": "4.74 m",
+      "weight": "29.71 kg"
+    },
+    {
+      "id": 221,
+      "name": "piloswine",
+      "types": [
+        "ice",
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/221.png",
+      "category": "swine",
+      "abilities": [
+        "Oblivious",
+        "Snow Cloak",
+        "Thick Fat"
+      ],
+      "height": "3.07 m",
+      "weight": "23.5 kg"
+    },
+    {
+      "id": 222,
+      "name": "corsola",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "url": "http://localhost:3001/images/222.png",
+      "category": "coral",
+      "abilities": [
+        "Hustle",
+        "Natural Cure",
+        "Regenerator"
+      ],
+      "height": "5.57 m",
+      "weight": "12.73 kg"
+    },
+    {
+      "id": 223,
+      "name": "remoraid",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/223.png",
+      "category": "jet",
+      "abilities": [
+        "Hustle",
+        "Sniper",
+        "Moody"
+      ],
+      "height": "1.81 m",
+      "weight": "41.52 kg"
+    },
+    {
+      "id": 224,
+      "name": "octillery",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/224.png",
+      "category": "jet",
+      "abilities": [
+        "Suction Cups",
+        "Sniper",
+        "Moody"
+      ],
+      "height": "5.87 m",
+      "weight": "21.24 kg"
+    },
+    {
+      "id": 225,
+      "name": "delibird",
+      "types": [
+        "ice",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/225.png",
+      "category": "delivery",
+      "abilities": [
+        "Vital Spirit",
+        "Hustle",
+        "Insomnia"
+      ],
+      "height": "4.69 m",
+      "weight": "44.71 kg"
+    },
+    {
+      "id": 226,
+      "name": "mantine",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/226.png",
+      "category": "kite",
+      "abilities": [
+        "Swift Swim",
+        "Water Absorb",
+        "Water Veil"
+      ],
+      "height": "5.15 m",
+      "weight": "42.01 kg"
+    },
+    {
+      "id": 227,
+      "name": "skarmory",
+      "types": [
+        "steel",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/227.png",
+      "category": "armor bird",
+      "abilities": [
+        "Keen Eye",
+        "Sturdy",
+        "Weak Armor"
+      ],
+      "height": "3.26 m",
+      "weight": "22.41 kg"
+    },
+    {
+      "id": 228,
+      "name": "houndour",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "url": "http://localhost:3001/images/228.png",
+      "category": "dark",
+      "abilities": [
+        "Early Bird",
+        "Flash Fire",
+        "Unnerve"
+      ],
+      "height": "4.17 m",
+      "weight": "31.81 kg"
+    },
+    {
+      "id": 229,
+      "name": "houndoom",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "url": "http://localhost:3001/images/229.png",
+      "category": "dark",
+      "abilities": [
+        "Early Bird",
+        "Flash Fire",
+        "Unnerve"
+      ],
+      "height": "9.58 m",
+      "weight": "18.93 kg"
+    },
+    {
+      "id": 230,
+      "name": "kingdra",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "url": "http://localhost:3001/images/230.png",
+      "category": "dragon",
+      "abilities": [
+        "Swift Swim",
+        "Sniper",
+        "Damp"
+      ],
+      "height": "7.4 m",
+      "weight": "13.68 kg"
+    },
+    {
+      "id": 231,
+      "name": "phanpy",
+      "types": [
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/231.png",
+      "category": "long nose",
+      "abilities": [
+        "Pickup",
+        "Sand Veil"
+      ],
+      "height": "8.13 m",
+      "weight": "17.67 kg"
+    },
+    {
+      "id": 232,
+      "name": "donphan",
+      "types": [
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/232.png",
+      "category": "armor",
+      "abilities": [
+        "Sturdy",
+        "Sand Veil"
+      ],
+      "height": "1.88 m",
+      "weight": "43.91 kg"
+    },
+    {
+      "id": 233,
+      "name": "porygon2",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/233.png",
+      "category": "virtual",
+      "abilities": [
+        "Trace",
+        "Download",
+        "Analytic"
+      ],
+      "height": "8.37 m",
+      "weight": "13.97 kg"
+    },
+    {
+      "id": 234,
+      "name": "stantler",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/234.png",
+      "category": "big horn",
+      "abilities": [
+        "Intimidate",
+        "Frisk",
+        "Sap Sipper"
+      ],
+      "height": "2.23 m",
+      "weight": "30.75 kg"
+    },
+    {
+      "id": 235,
+      "name": "smeargle",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/235.png",
+      "category": "painter",
+      "abilities": [
+        "Own Tempo",
+        "Technician",
+        "Moody"
+      ],
+      "height": "6.23 m",
+      "weight": "39.71 kg"
+    },
+    {
+      "id": 236,
+      "name": "tyrogue",
+      "types": [
+        "fighting"
+      ],
+      "url": "http://localhost:3001/images/236.png",
+      "category": "scuffle",
+      "abilities": [
+        "Guts",
+        "Steadfast",
+        "Vital Spirit"
+      ],
+      "height": "6.19 m",
+      "weight": "35.39 kg"
+    },
+    {
+      "id": 237,
+      "name": "hitmontop",
+      "types": [
+        "fighting"
+      ],
+      "url": "http://localhost:3001/images/237.png",
+      "category": "handstand",
+      "abilities": [
+        "Intimidate",
+        "Technician",
+        "Steadfast"
+      ],
+      "height": "8.75 m",
+      "weight": "23.7 kg"
+    },
+    {
+      "id": 238,
+      "name": "smoochum",
+      "types": [
+        "ice",
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/238.png",
+      "category": "kiss",
+      "abilities": [
+        "Oblivious",
+        "Forewarn",
+        "Hydration"
+      ],
+      "height": "1.19 m",
+      "weight": "41 kg"
+    },
+    {
+      "id": 239,
+      "name": "elekid",
+      "types": [
+        "electric"
+      ],
+      "url": "http://localhost:3001/images/239.png",
+      "category": "electric",
+      "abilities": [
+        "Static",
+        "Vital Spirit"
+      ],
+      "height": "3.14 m",
+      "weight": "10.7 kg"
+    },
+    {
+      "id": 240,
+      "name": "magby",
+      "types": [
+        "fire"
+      ],
+      "url": "http://localhost:3001/images/240.png",
+      "category": "live coal",
+      "abilities": [
+        "Flame Body",
+        "Vital Spirit"
+      ],
+      "height": "6 m",
+      "weight": "32.95 kg"
+    },
+    {
+      "id": 241,
+      "name": "miltank",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/241.png",
+      "category": "milk cow",
+      "abilities": [
+        "Thick Fat",
+        "Scrappy",
+        "Sap Sipper"
+      ],
+      "height": "5.18 m",
+      "weight": "48.25 kg"
+    },
+    {
+      "id": 242,
+      "name": "blissey",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/242.png",
+      "category": "happiness",
+      "abilities": [
+        "Natural Cure",
+        "Serene Grace",
+        "Healer"
+      ],
+      "height": "2.42 m",
+      "weight": "29.59 kg"
+    },
+    {
+      "id": 243,
+      "name": "raikou",
+      "types": [
+        "electric"
+      ],
+      "url": "http://localhost:3001/images/243.png",
+      "category": "thunder",
+      "abilities": [
+        "Pressure",
+        "Inner Focus"
+      ],
+      "height": "9.27 m",
+      "weight": "39.33 kg"
+    },
+    {
+      "id": 244,
+      "name": "entei",
+      "types": [
+        "fire"
+      ],
+      "url": "http://localhost:3001/images/244.png",
+      "category": "volcano",
+      "abilities": [
+        "Pressure",
+        "Inner Focus"
+      ],
+      "height": "9.06 m",
+      "weight": "36.41 kg"
+    },
+    {
+      "id": 245,
+      "name": "suicune",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/245.png",
+      "category": "aurora",
+      "abilities": [
+        "Pressure",
+        "Inner Focus"
+      ],
+      "height": "6.18 m",
+      "weight": "20.67 kg"
+    },
+    {
+      "id": 246,
+      "name": "larvitar",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/246.png",
+      "category": "rock skin",
+      "abilities": [
+        "Guts",
+        "Sand Veil"
+      ],
+      "height": "5.39 m",
+      "weight": "22.41 kg"
+    },
+    {
+      "id": 247,
+      "name": "pupitar",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/247.png",
+      "category": "hard shell",
+      "abilities": [
+        "Shed Skin"
+      ],
+      "height": "2.54 m",
+      "weight": "36.82 kg"
+    },
+    {
+      "id": 248,
+      "name": "tyranitar",
+      "types": [
+        "rock",
+        "dark"
+      ],
+      "url": "http://localhost:3001/images/248.png",
+      "category": "armor",
+      "abilities": [
+        "Sand Stream",
+        "Unnerve"
+      ],
+      "height": "1.13 m",
+      "weight": "17.73 kg"
+    },
+    {
+      "id": 249,
+      "name": "lugia",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/249.png",
+      "category": "diving",
+      "abilities": [
+        "Pressure",
+        "Multiscale"
+      ],
+      "height": "4.42 m",
+      "weight": "46.75 kg"
+    },
+    {
+      "id": 250,
+      "name": "ho-oh",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/250.png",
+      "category": "rainbow",
+      "abilities": [
+        "Pressure",
+        "Regenerator"
+      ],
+      "height": "4.46 m",
+      "weight": "13.16 kg"
+    },
+    {
+      "id": 251,
+      "name": "celebi",
+      "types": [
+        "psychic",
+        "grass"
+      ],
+      "url": "http://localhost:3001/images/251.png",
+      "category": "time travel",
+      "abilities": [
+        "Natural Cure"
+      ],
+      "height": "2.72 m",
+      "weight": "47.15 kg"
+    },
+    {
+      "id": 252,
+      "name": "treecko",
+      "types": [
+        "grass"
+      ],
+      "url": "http://localhost:3001/images/252.png",
+      "category": "wood gecko",
+      "abilities": [
+        "Overgrow",
+        "Unburden"
+      ],
+      "height": "8.52 m",
+      "weight": "44.44 kg"
+    },
+    {
+      "id": 253,
+      "name": "grovyle",
+      "types": [
+        "grass"
+      ],
+      "url": "http://localhost:3001/images/253.png",
+      "category": "wood gecko",
+      "abilities": [
+        "Overgrow",
+        "Unburden"
+      ],
+      "height": "6.14 m",
+      "weight": "37.73 kg"
+    },
+    {
+      "id": 254,
+      "name": "sceptile",
+      "types": [
+        "grass"
+      ],
+      "url": "http://localhost:3001/images/254.png",
+      "category": "forest",
+      "abilities": [
+        "Overgrow",
+        "Unburden"
+      ],
+      "height": "3.93 m",
+      "weight": "47.62 kg"
+    },
+    {
+      "id": 255,
+      "name": "torchic",
+      "types": [
+        "fire"
+      ],
+      "url": "http://localhost:3001/images/255.png",
+      "category": "chick",
+      "abilities": [
+        "Blaze",
+        "Speed Boost"
+      ],
+      "height": "6.41 m",
+      "weight": "15.11 kg"
+    },
+    {
+      "id": 256,
+      "name": "combusken",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "url": "http://localhost:3001/images/256.png",
+      "category": "young fowl",
+      "abilities": [
+        "Blaze",
+        "Speed Boost"
+      ],
+      "height": "7.06 m",
+      "weight": "39.01 kg"
+    },
+    {
+      "id": 257,
+      "name": "blaziken",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "url": "http://localhost:3001/images/257.png",
+      "category": "blaze",
+      "abilities": [
+        "Blaze",
+        "Speed Boost"
+      ],
+      "height": "4.82 m",
+      "weight": "31.17 kg"
+    },
+    {
+      "id": 258,
+      "name": "mudkip",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/258.png",
+      "category": "mud fish",
+      "abilities": [
+        "Torrent",
+        "Damp"
+      ],
+      "height": "9.28 m",
+      "weight": "49.78 kg"
+    },
+    {
+      "id": 259,
+      "name": "marshtomp",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/259.png",
+      "category": "mud fish",
+      "abilities": [
+        "Torrent",
+        "Damp"
+      ],
+      "height": "6.61 m",
+      "weight": "46.9 kg"
+    },
+    {
+      "id": 260,
+      "name": "swampert",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/260.png",
+      "category": "mud fish",
+      "abilities": [
+        "Torrent",
+        "Damp"
+      ],
+      "height": "6.93 m",
+      "weight": "16.99 kg"
+    },
+    {
+      "id": 261,
+      "name": "poochyena",
+      "types": [
+        "dark"
+      ],
+      "url": "http://localhost:3001/images/261.png",
+      "category": "bite",
+      "abilities": [
+        "Run Away",
+        "Quick Feet",
+        "Rattled"
+      ],
+      "height": "1.36 m",
+      "weight": "39.4 kg"
+    },
+    {
+      "id": 262,
+      "name": "mightyena",
+      "types": [
+        "dark"
+      ],
+      "url": "http://localhost:3001/images/262.png",
+      "category": "bite",
+      "abilities": [
+        "Intimidate",
+        "Quick Feet",
+        "Moxie"
+      ],
+      "height": "3.4 m",
+      "weight": "40.32 kg"
+    },
+    {
+      "id": 263,
+      "name": "zigzagoon",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/263.png",
+      "category": "tiny racoon",
+      "abilities": [
+        "Pickup",
+        "Gluttony",
+        "Quick Feet"
+      ],
+      "height": "4.7 m",
+      "weight": "29.34 kg"
+    },
+    {
+      "id": 264,
+      "name": "linoone",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/264.png",
+      "category": "rush",
+      "abilities": [
+        "Pickup",
+        "Gluttony",
+        "Quick Feet"
+      ],
+      "height": "8.67 m",
+      "weight": "39.63 kg"
+    },
+    {
+      "id": 265,
+      "name": "wurmple",
+      "types": [
+        "bug"
+      ],
+      "url": "http://localhost:3001/images/265.png",
+      "category": "worm",
+      "abilities": [
+        "Shield Dust",
+        "Run Away"
+      ],
+      "height": "7.95 m",
+      "weight": "18.25 kg"
+    },
+    {
+      "id": 266,
+      "name": "silcoon",
+      "types": [
+        "bug"
+      ],
+      "url": "http://localhost:3001/images/266.png",
+      "category": "cocoon",
+      "abilities": [
+        "Shed Skin"
+      ],
+      "height": "1.86 m",
+      "weight": "26.3 kg"
+    },
+    {
+      "id": 267,
+      "name": "beautifly",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/267.png",
+      "category": "butterfly",
+      "abilities": [
+        "Swarm",
+        "Rivalry"
+      ],
+      "height": "8.89 m",
+      "weight": "13.38 kg"
+    },
+    {
+      "id": 268,
+      "name": "cascoon",
+      "types": [
+        "bug"
+      ],
+      "url": "http://localhost:3001/images/268.png",
+      "category": "cocoon",
+      "abilities": [
+        "Shed Skin"
+      ],
+      "height": "2.4 m",
+      "weight": "16.88 kg"
+    },
+    {
+      "id": 269,
+      "name": "dustox",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/269.png",
+      "category": "poison moth",
+      "abilities": [
+        "Shield Dust",
+        "Compoundeyes"
+      ],
+      "height": "3.02 m",
+      "weight": "28.82 kg"
+    },
+    {
+      "id": 270,
+      "name": "lotad",
+      "types": [
+        "water",
+        "grass"
+      ],
+      "url": "http://localhost:3001/images/270.png",
+      "category": "water weed",
+      "abilities": [
+        "Swift Swim",
+        "Rain Dish",
+        "Own Tempo"
+      ],
+      "height": "2.4 m",
+      "weight": "11.25 kg"
+    },
+    {
+      "id": 271,
+      "name": "lombre",
+      "types": [
+        "water",
+        "grass"
+      ],
+      "url": "http://localhost:3001/images/271.png",
+      "category": "jolly",
+      "abilities": [
+        "Swift Swim",
+        "Rain Dish",
+        "Own Tempo"
+      ],
+      "height": "2.44 m",
+      "weight": "21.19 kg"
+    },
+    {
+      "id": 272,
+      "name": "ludicolo",
+      "types": [
+        "water",
+        "grass"
+      ],
+      "url": "http://localhost:3001/images/272.png",
+      "category": "carefree",
+      "abilities": [
+        "Swift Swim",
+        "Rain Dish",
+        "Own Tempo"
+      ],
+      "height": "2.4 m",
+      "weight": "43.42 kg"
+    },
+    {
+      "id": 273,
+      "name": "seedot",
+      "types": [
+        "grass"
+      ],
+      "url": "http://localhost:3001/images/273.png",
+      "category": "acorn",
+      "abilities": [
+        "Chlorophyll",
+        "Early Bird",
+        "Pickpocket"
+      ],
+      "height": "1.27 m",
+      "weight": "40.11 kg"
+    },
+    {
+      "id": 274,
+      "name": "nuzleaf",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "url": "http://localhost:3001/images/274.png",
+      "category": "wily",
+      "abilities": [
+        "Chlorophyll",
+        "Early Bird",
+        "Pickpocket"
+      ],
+      "height": "6.6 m",
+      "weight": "36.01 kg"
+    },
+    {
+      "id": 275,
+      "name": "shiftry",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "url": "http://localhost:3001/images/275.png",
+      "category": "wickid",
+      "abilities": [
+        "Chlorophyll",
+        "Early Bird",
+        "Pickpocket"
+      ],
+      "height": "6.94 m",
+      "weight": "34.3 kg"
+    },
+    {
+      "id": 276,
+      "name": "taillow",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/276.png",
+      "category": "tinyswallow",
+      "abilities": [
+        "Guts",
+        "Scrappy"
+      ],
+      "height": "8.91 m",
+      "weight": "23.47 kg"
+    },
+    {
+      "id": 277,
+      "name": "swellow",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/277.png",
+      "category": "swallow",
+      "abilities": [
+        "Guts",
+        "Scrappy"
+      ],
+      "height": "1.57 m",
+      "weight": "14.43 kg"
+    },
+    {
+      "id": 278,
+      "name": "wingull",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/278.png",
+      "category": "seagull",
+      "abilities": [
+        "Keen Eye",
+        "Hydration",
+        "Rain Dish"
+      ],
+      "height": "5.56 m",
+      "weight": "22.57 kg"
+    },
+    {
+      "id": 279,
+      "name": "pelipper",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/279.png",
+      "category": "water bird",
+      "abilities": [
+        "Keen Eye",
+        "Drizzle",
+        "Rain Dish"
+      ],
+      "height": "2.6 m",
+      "weight": "46.55 kg"
+    },
+    {
+      "id": 280,
+      "name": "ralts",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "url": "http://localhost:3001/images/280.png",
+      "category": "feeling",
+      "abilities": [
+        "Synchronize",
+        "Trace",
+        "Telepathy"
+      ],
+      "height": "7.42 m",
+      "weight": "42.65 kg"
+    },
+    {
+      "id": 281,
+      "name": "kirlia",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "url": "http://localhost:3001/images/281.png",
+      "category": "emotion",
+      "abilities": [
+        "Synchronize",
+        "Trace",
+        "Telepathy"
+      ],
+      "height": "3.11 m",
+      "weight": "36.25 kg"
+    },
+    {
+      "id": 282,
+      "name": "gardevoir",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "url": "http://localhost:3001/images/282.png",
+      "category": "embrace",
+      "abilities": [
+        "Synchronize",
+        "Trace",
+        "Telepathy"
+      ],
+      "height": "2.18 m",
+      "weight": "40.54 kg"
+    },
+    {
+      "id": 283,
+      "name": "surskit",
+      "types": [
+        "bug",
+        "water"
+      ],
+      "url": "http://localhost:3001/images/283.png",
+      "category": "pond skater",
+      "abilities": [
+        "Swift Swim",
+        "Rain Dish"
+      ],
+      "height": "8.19 m",
+      "weight": "15.18 kg"
+    },
+    {
+      "id": 284,
+      "name": "masquerain",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/284.png",
+      "category": "eyeball",
+      "abilities": [
+        "Intimidate",
+        "Unnerve"
+      ],
+      "height": "1.37 m",
+      "weight": "38.13 kg"
+    },
+    {
+      "id": 285,
+      "name": "shroomish",
+      "types": [
+        "grass"
+      ],
+      "url": "http://localhost:3001/images/285.png",
+      "category": "mushroom",
+      "abilities": [
+        "Effect Spore",
+        "Poison Heal",
+        "Quick Feet"
+      ],
+      "height": "7.31 m",
+      "weight": "18.98 kg"
+    },
+    {
+      "id": 286,
+      "name": "breloom",
+      "types": [
+        "grass",
+        "fighting"
+      ],
+      "url": "http://localhost:3001/images/286.png",
+      "category": "mushroom",
+      "abilities": [
+        "Effect Spore",
+        "Poison Heal",
+        "Technician"
+      ],
+      "height": "8.83 m",
+      "weight": "46.48 kg"
+    },
+    {
+      "id": 287,
+      "name": "slakoth",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/287.png",
+      "category": "slacker",
+      "abilities": [
+        "Truant"
+      ],
+      "height": "7.05 m",
+      "weight": "21.05 kg"
+    },
+    {
+      "id": 288,
+      "name": "vigoroth",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/288.png",
+      "category": "wild monkey",
+      "abilities": [
+        "Vital Spirit"
+      ],
+      "height": "8.61 m",
+      "weight": "30.32 kg"
+    },
+    {
+      "id": 289,
+      "name": "slaking",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/289.png",
+      "category": "lazy",
+      "abilities": [
+        "Truant"
+      ],
+      "height": "1.43 m",
+      "weight": "16.57 kg"
+    },
+    {
+      "id": 290,
+      "name": "nincada",
+      "types": [
+        "bug",
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/290.png",
+      "category": "trainee",
+      "abilities": [
+        "Compoundeyes",
+        "Run Away"
+      ],
+      "height": "1.95 m",
+      "weight": "41.9 kg"
+    },
+    {
+      "id": 291,
+      "name": "ninjask",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/291.png",
+      "category": "ninja",
+      "abilities": [
+        "Speed Boost",
+        "Infiltrator"
+      ],
+      "height": "8.39 m",
+      "weight": "47.88 kg"
+    },
+    {
+      "id": 292,
+      "name": "shedinja",
+      "types": [
+        "bug",
+        "ghost"
+      ],
+      "url": "http://localhost:3001/images/292.png",
+      "category": "shed",
+      "abilities": [
+        "Wonder Guard"
+      ],
+      "height": "4.25 m",
+      "weight": "29.18 kg"
+    },
+    {
+      "id": 293,
+      "name": "whismur",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/293.png",
+      "category": "whisper",
+      "abilities": [
+        "Soundproof",
+        "Rattled"
+      ],
+      "height": "8.05 m",
+      "weight": "29.94 kg"
+    },
+    {
+      "id": 294,
+      "name": "loudred",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/294.png",
+      "category": "big voice",
+      "abilities": [
+        "Soundproof",
+        "Scrappy"
+      ],
+      "height": "4.27 m",
+      "weight": "23.16 kg"
+    },
+    {
+      "id": 295,
+      "name": "exploud",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/295.png",
+      "category": "loud noise",
+      "abilities": [
+        "Soundproof",
+        "Scrappy"
+      ],
+      "height": "7.83 m",
+      "weight": "38.61 kg"
+    },
+    {
+      "id": 296,
+      "name": "makuhita",
+      "types": [
+        "fighting"
+      ],
+      "url": "http://localhost:3001/images/296.png",
+      "category": "guts",
+      "abilities": [
+        "Thick Fat",
+        "Guts",
+        "Sheer Force"
+      ],
+      "height": "7.51 m",
+      "weight": "19.03 kg"
+    },
+    {
+      "id": 297,
+      "name": "hariyama",
+      "types": [
+        "fighting"
+      ],
+      "url": "http://localhost:3001/images/297.png",
+      "category": "arm thrust",
+      "abilities": [
+        "Thick Fat",
+        "Guts",
+        "Sheer Force"
+      ],
+      "height": "7.5 m",
+      "weight": "45.4 kg"
+    },
+    {
+      "id": 298,
+      "name": "azurill",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "url": "http://localhost:3001/images/298.png",
+      "category": "polka dot",
+      "abilities": [
+        "Thick Fat",
+        "Huge Power",
+        "Sap Sipper"
+      ],
+      "height": "3.01 m",
+      "weight": "31.13 kg"
+    },
+    {
+      "id": 299,
+      "name": "nosepass",
+      "types": [
+        "rock"
+      ],
+      "url": "http://localhost:3001/images/299.png",
+      "category": "compass",
+      "abilities": [
+        "Sturdy",
+        "Magnet Pull",
+        "Sand Force"
+      ],
+      "height": "2.38 m",
+      "weight": "45.33 kg"
+    },
+    {
+      "id": 300,
+      "name": "skitty",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/300.png",
+      "category": "kitten",
+      "abilities": [
+        "Cute Charm",
+        "Normalize",
+        "Wonder Skin "
+      ],
+      "height": "4.35 m",
+      "weight": "35.82 kg"
+    },
+    {
+      "id": 301,
+      "name": "delcatty",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/301.png",
+      "category": "prim",
+      "abilities": [
+        "Cute Charm",
+        "Normalize",
+        "Wonder Skin "
+      ],
+      "height": "9.39 m",
+      "weight": "13.41 kg"
+    },
+    {
+      "id": 302,
+      "name": "sableye",
+      "types": [
+        "dark",
+        "ghost"
+      ],
+      "url": "http://localhost:3001/images/302.png",
+      "category": "darkness",
+      "abilities": [
+        "Keen Eye",
+        "Stall",
+        "Prankster"
+      ],
+      "height": "8.46 m",
+      "weight": "40.35 kg"
+    },
+    {
+      "id": 303,
+      "name": "mawile",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "url": "http://localhost:3001/images/303.png",
+      "category": "deceiver",
+      "abilities": [
+        "Hyper Cutter",
+        "Intimidate",
+        "Sheer Force"
+      ],
+      "height": "5.44 m",
+      "weight": "34.94 kg"
+    },
+    {
+      "id": 304,
+      "name": "aron",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "url": "http://localhost:3001/images/304.png",
+      "category": "iron armor",
+      "abilities": [
+        "Sturdy",
+        "Rock Head",
+        "Heavy Metal"
+      ],
+      "height": "6.95 m",
+      "weight": "11.22 kg"
+    },
+    {
+      "id": 305,
+      "name": "lairon",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "url": "http://localhost:3001/images/305.png",
+      "category": "iron armor",
+      "abilities": [
+        "Sturdy",
+        "Rock Head",
+        "Heavy Metal"
+      ],
+      "height": "8.15 m",
+      "weight": "17.38 kg"
+    },
+    {
+      "id": 306,
+      "name": "aggron",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "url": "http://localhost:3001/images/306.png",
+      "category": "iron armor",
+      "abilities": [
+        "Sturdy",
+        "Rock Head",
+        "Heavy Metal"
+      ],
+      "height": "7.79 m",
+      "weight": "34.41 kg"
+    },
+    {
+      "id": 307,
+      "name": "meditite",
+      "types": [
+        "fighting",
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/307.png",
+      "category": "meditate",
+      "abilities": [
+        "Pure Power",
+        "Telepathy"
+      ],
+      "height": "3.21 m",
+      "weight": "37.91 kg"
+    },
+    {
+      "id": 308,
+      "name": "medicham",
+      "types": [
+        "fighting",
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/308.png",
+      "category": "meditate",
+      "abilities": [
+        "Pure Power",
+        "Telepathy"
+      ],
+      "height": "6.93 m",
+      "weight": "32.96 kg"
+    },
+    {
+      "id": 309,
+      "name": "electrike",
+      "types": [
+        "electric"
+      ],
+      "url": "http://localhost:3001/images/309.png",
+      "category": "lightning",
+      "abilities": [
+        "Static",
+        "Lightningrod",
+        "Minus"
+      ],
+      "height": "5.68 m",
+      "weight": "18.88 kg"
+    },
+    {
+      "id": 310,
+      "name": "manectric",
+      "types": [
+        "electric"
+      ],
+      "url": "http://localhost:3001/images/310.png",
+      "category": "discharge",
+      "abilities": [
+        "Static",
+        "Lightningrod",
+        "Minus"
+      ],
+      "height": "8.03 m",
+      "weight": "22.64 kg"
+    },
+    {
+      "id": 311,
+      "name": "plusle",
+      "types": [
+        "electric"
+      ],
+      "url": "http://localhost:3001/images/311.png",
+      "category": "cheering",
+      "abilities": [
+        "Plus",
+        "Lightningrod"
+      ],
+      "height": "7.24 m",
+      "weight": "13.72 kg"
+    },
+    {
+      "id": 312,
+      "name": "minun",
+      "types": [
+        "electric"
+      ],
+      "url": "http://localhost:3001/images/312.png",
+      "category": "cheering",
+      "abilities": [
+        "Minus",
+        "Volt Absorb"
+      ],
+      "height": "2 m",
+      "weight": "25.53 kg"
+    },
+    {
+      "id": 313,
+      "name": "volbeat",
+      "types": [
+        "bug"
+      ],
+      "url": "http://localhost:3001/images/313.png",
+      "category": "firefly",
+      "abilities": [
+        "Illuminate",
+        "Swarm",
+        "Prankster"
+      ],
+      "height": "2.51 m",
+      "weight": "24.97 kg"
+    },
+    {
+      "id": 314,
+      "name": "illumise",
+      "types": [
+        "bug"
+      ],
+      "url": "http://localhost:3001/images/314.png",
+      "category": "firefly",
+      "abilities": [
+        "Oblivious",
+        "Tinted Lens",
+        "Prankster"
+      ],
+      "height": "5.08 m",
+      "weight": "36.33 kg"
+    },
+    {
+      "id": 315,
+      "name": "roselia",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/315.png",
+      "category": "thorn",
+      "abilities": [
+        "Natural Cure",
+        "Poison Point",
+        "Leaf Guard"
+      ],
+      "height": "7.22 m",
+      "weight": "23.52 kg"
+    },
+    {
+      "id": 316,
+      "name": "gulpin",
+      "types": [
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/316.png",
+      "category": "stomach",
+      "abilities": [
+        "Liquid Ooze",
+        "Sticky Hold",
+        "Gluttony"
+      ],
+      "height": "1.55 m",
+      "weight": "22.69 kg"
+    },
+    {
+      "id": 317,
+      "name": "swalot",
+      "types": [
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/317.png",
+      "category": "poison bag",
+      "abilities": [
+        "Liquid Ooze",
+        "Sticky Hold",
+        "Gluttony"
+      ],
+      "height": "6.31 m",
+      "weight": "28.97 kg"
+    },
+    {
+      "id": 318,
+      "name": "carvanha",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "url": "http://localhost:3001/images/318.png",
+      "category": "savage",
+      "abilities": [
+        "Rough Skin",
+        "Speed Boost"
+      ],
+      "height": "5.62 m",
+      "weight": "41.87 kg"
+    },
+    {
+      "id": 319,
+      "name": "sharpedo",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "url": "http://localhost:3001/images/319.png",
+      "category": "brutal",
+      "abilities": [
+        "Rough Skin",
+        "Speed Boost"
+      ],
+      "height": "3.83 m",
+      "weight": "18.27 kg"
+    },
+    {
+      "id": 320,
+      "name": "wailmer",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/320.png",
+      "category": "ball whale",
+      "abilities": [
+        "Water Veil",
+        "Oblivious",
+        "Pressure"
+      ],
+      "height": "2.08 m",
+      "weight": "25.29 kg"
+    },
+    {
+      "id": 321,
+      "name": "wailord",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/321.png",
+      "category": "float whale",
+      "abilities": [
+        "Water Veil",
+        "Oblivious",
+        "Pressure"
+      ],
+      "height": "9.71 m",
+      "weight": "44.25 kg"
+    },
+    {
+      "id": 322,
+      "name": "numel",
+      "types": [
+        "fire",
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/322.png",
+      "category": "numb",
+      "abilities": [
+        "Oblivious",
+        "Simple",
+        "Own Tempo"
+      ],
+      "height": "9.57 m",
+      "weight": "47.95 kg"
+    },
+    {
+      "id": 323,
+      "name": "camerupt",
+      "types": [
+        "fire",
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/323.png",
+      "category": "eruption",
+      "abilities": [
+        "Magma Armor",
+        "Solid Rock",
+        "Anger Point"
+      ],
+      "height": "8.8 m",
+      "weight": "22.51 kg"
+    },
+    {
+      "id": 324,
+      "name": "torkoal",
+      "types": [
+        "fire"
+      ],
+      "url": "http://localhost:3001/images/324.png",
+      "category": "coal",
+      "abilities": [
+        "White Smoke",
+        "Drought",
+        "Shell Armor"
+      ],
+      "height": "5.76 m",
+      "weight": "14.38 kg"
+    },
+    {
+      "id": 325,
+      "name": "spoink",
+      "types": [
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/325.png",
+      "category": "bounce",
+      "abilities": [
+        "Thick Fat",
+        "Own Tempo",
+        "Gluttony"
+      ],
+      "height": "6.87 m",
+      "weight": "10.04 kg"
+    },
+    {
+      "id": 326,
+      "name": "grumpig",
+      "types": [
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/326.png",
+      "category": "manipulate",
+      "abilities": [
+        "Thick Fat",
+        "Own Tempo",
+        "Gluttony"
+      ],
+      "height": "4.12 m",
+      "weight": "26.68 kg"
+    },
+    {
+      "id": 327,
+      "name": "spinda",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/327.png",
+      "category": "spot panda",
+      "abilities": [
+        "Own Tempo",
+        "Tangled Feet",
+        "Contrary"
+      ],
+      "height": "7.63 m",
+      "weight": "29.22 kg"
+    },
+    {
+      "id": 328,
+      "name": "trapinch",
+      "types": [
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/328.png",
+      "category": "ant pit",
+      "abilities": [
+        "Hyper Cutter",
+        "Arena Trap",
+        "Sheer Force"
+      ],
+      "height": "7.94 m",
+      "weight": "39.42 kg"
+    },
+    {
+      "id": 329,
+      "name": "vibrava",
+      "types": [
+        "ground",
+        "dragon"
+      ],
+      "url": "http://localhost:3001/images/329.png",
+      "category": "vibration",
+      "abilities": [
+        "Levitate"
+      ],
+      "height": "6.64 m",
+      "weight": "15.03 kg"
+    },
+    {
+      "id": 330,
+      "name": "flygon",
+      "types": [
+        "ground",
+        "dragon"
+      ],
+      "url": "http://localhost:3001/images/330.png",
+      "category": "mystic",
+      "abilities": [
+        "Levitate"
+      ],
+      "height": "2.9 m",
+      "weight": "20.31 kg"
+    },
+    {
+      "id": 331,
+      "name": "cacnea",
+      "types": [
+        "grass"
+      ],
+      "url": "http://localhost:3001/images/331.png",
+      "category": "cactus",
+      "abilities": [
+        "Sand Veil",
+        "Water Absorb"
+      ],
+      "height": "4.55 m",
+      "weight": "27.02 kg"
+    },
+    {
+      "id": 332,
+      "name": "cacturne",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "url": "http://localhost:3001/images/332.png",
+      "category": "scarecrow",
+      "abilities": [
+        "Sand Veil",
+        "Water Absorb"
+      ],
+      "height": "7.4 m",
+      "weight": "17.3 kg"
+    },
+    {
+      "id": 333,
+      "name": "swablu",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/333.png",
+      "category": "cotton bird",
+      "abilities": [
+        "Natural Cure",
+        "Cloud Nine"
+      ],
+      "height": "8.76 m",
+      "weight": "30.98 kg"
+    },
+    {
+      "id": 334,
+      "name": "altaria",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/334.png",
+      "category": "humming",
+      "abilities": [
+        "Natural Cure",
+        "Cloud Nine"
+      ],
+      "height": "9.93 m",
+      "weight": "49.51 kg"
+    },
+    {
+      "id": 335,
+      "name": "zangoose",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/335.png",
+      "category": "cat ferret",
+      "abilities": [
+        "Immunity",
+        "Toxic Boost"
+      ],
+      "height": "6.16 m",
+      "weight": "31.44 kg"
+    },
+    {
+      "id": 336,
+      "name": "seviper",
+      "types": [
+        "poison"
+      ],
+      "url": "http://localhost:3001/images/336.png",
+      "category": "fang snake",
+      "abilities": [
+        "Shed Skin",
+        "Infiltrator"
+      ],
+      "height": "2.74 m",
+      "weight": "34.85 kg"
+    },
+    {
+      "id": 337,
+      "name": "lunatone",
+      "types": [
+        "rock",
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/337.png",
+      "category": "meteorite",
+      "abilities": [
+        "Levitate"
+      ],
+      "height": "4.44 m",
+      "weight": "34.17 kg"
+    },
+    {
+      "id": 338,
+      "name": "solrock",
+      "types": [
+        "rock",
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/338.png",
+      "category": "meteorite",
+      "abilities": [
+        "Levitate"
+      ],
+      "height": "9.04 m",
+      "weight": "31.72 kg"
+    },
+    {
+      "id": 339,
+      "name": "barboach",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/339.png",
+      "category": "whiskers",
+      "abilities": [
+        "Oblivious",
+        "Anticipation",
+        "Hydration"
+      ],
+      "height": "1.47 m",
+      "weight": "12.8 kg"
+    },
+    {
+      "id": 340,
+      "name": "whiscash",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/340.png",
+      "category": "whiskers",
+      "abilities": [
+        "Oblivious",
+        "Anticipation",
+        "Hydration"
+      ],
+      "height": "2.01 m",
+      "weight": "16.75 kg"
+    },
+    {
+      "id": 341,
+      "name": "corphish",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/341.png",
+      "category": "ruffian",
+      "abilities": [
+        "Hyper Cutter",
+        "Shell Armor",
+        "Adaptability"
+      ],
+      "height": "9.28 m",
+      "weight": "39.03 kg"
+    },
+    {
+      "id": 342,
+      "name": "crawdaunt",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "url": "http://localhost:3001/images/342.png",
+      "category": "rogue",
+      "abilities": [
+        "Hyper Cutter",
+        "Shell Armor",
+        "Adaptability"
+      ],
+      "height": "9.19 m",
+      "weight": "47.83 kg"
+    },
+    {
+      "id": 343,
+      "name": "baltoy",
+      "types": [
+        "ground",
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/343.png",
+      "category": "clay doll",
+      "abilities": [
+        "Levitate"
+      ],
+      "height": "2.93 m",
+      "weight": "38.37 kg"
+    },
+    {
+      "id": 344,
+      "name": "claydol",
+      "types": [
+        "ground",
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/344.png",
+      "category": "clay doll",
+      "abilities": [
+        "Levitate"
+      ],
+      "height": "1.85 m",
+      "weight": "25.49 kg"
+    },
+    {
+      "id": 345,
+      "name": "lileep",
+      "types": [
+        "rock",
+        "grass"
+      ],
+      "url": "http://localhost:3001/images/345.png",
+      "category": "sea lily",
+      "abilities": [
+        "Suction Cups",
+        "Storm Drain"
+      ],
+      "height": "6.78 m",
+      "weight": "40.66 kg"
+    },
+    {
+      "id": 346,
+      "name": "cradily",
+      "types": [
+        "rock",
+        "grass"
+      ],
+      "url": "http://localhost:3001/images/346.png",
+      "category": "barnacle",
+      "abilities": [
+        "Suction Cups",
+        "Storm Drain"
+      ],
+      "height": "5.12 m",
+      "weight": "26.62 kg"
+    },
+    {
+      "id": 347,
+      "name": "anorith",
+      "types": [
+        "rock",
+        "bug"
+      ],
+      "url": "http://localhost:3001/images/347.png",
+      "category": "old shrimp",
+      "abilities": [
+        "Battle Armor",
+        "Swift Swim"
+      ],
+      "height": "6.33 m",
+      "weight": "13.33 kg"
+    },
+    {
+      "id": 348,
+      "name": "armaldo",
+      "types": [
+        "rock",
+        "bug"
+      ],
+      "url": "http://localhost:3001/images/348.png",
+      "category": "plate",
+      "abilities": [
+        "Battle Armor",
+        "Swift Swim"
+      ],
+      "height": "8.8 m",
+      "weight": "13.09 kg"
+    },
+    {
+      "id": 349,
+      "name": "feebas",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/349.png",
+      "category": "fish",
+      "abilities": [
+        "Swift Swim",
+        "Oblivious",
+        "Adaptability"
+      ],
+      "height": "3.4 m",
+      "weight": "43.97 kg"
+    },
+    {
+      "id": 350,
+      "name": "milotic",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/350.png",
+      "category": "tender",
+      "abilities": [
+        "Marvel Scale",
+        "Competitive",
+        "Cute Charm"
+      ],
+      "height": "1.94 m",
+      "weight": "39.83 kg"
+    },
+    {
+      "id": 351,
+      "name": "castform",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/351.png",
+      "category": "weather",
+      "abilities": [
+        "Forecast"
+      ],
+      "height": "9.89 m",
+      "weight": "35.14 kg"
+    },
+    {
+      "id": 352,
+      "name": "kecleon",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/352.png",
+      "category": "color swap",
+      "abilities": [
+        "Color Change",
+        "Protean"
+      ],
+      "height": "8.95 m",
+      "weight": "37.32 kg"
+    },
+    {
+      "id": 353,
+      "name": "shuppet",
+      "types": [
+        "ghost"
+      ],
+      "url": "http://localhost:3001/images/353.png",
+      "category": "puppet",
+      "abilities": [
+        "Insomnia",
+        "Frisk",
+        "Cursed Body"
+      ],
+      "height": "5.75 m",
+      "weight": "19.17 kg"
+    },
+    {
+      "id": 354,
+      "name": "banette",
+      "types": [
+        "ghost"
+      ],
+      "url": "http://localhost:3001/images/354.png",
+      "category": "marionette",
+      "abilities": [
+        "Insomnia",
+        "Frisk",
+        "Cursed Body"
+      ],
+      "height": "4.52 m",
+      "weight": "22.57 kg"
+    },
+    {
+      "id": 355,
+      "name": "duskull",
+      "types": [
+        "ghost"
+      ],
+      "url": "http://localhost:3001/images/355.png",
+      "category": "requiem",
+      "abilities": [
+        "Levitate",
+        "Frisk"
+      ],
+      "height": "9.84 m",
+      "weight": "37.54 kg"
+    },
+    {
+      "id": 356,
+      "name": "dusclops",
+      "types": [
+        "ghost"
+      ],
+      "url": "http://localhost:3001/images/356.png",
+      "category": "beckon",
+      "abilities": [
+        "Pressure",
+        "Frisk"
+      ],
+      "height": "6.96 m",
+      "weight": "35.59 kg"
+    },
+    {
+      "id": 357,
+      "name": "tropius",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/357.png",
+      "category": "fruit",
+      "abilities": [
+        "Chlorophyll",
+        "Solar Power",
+        "Harvest"
+      ],
+      "height": "4.1 m",
+      "weight": "19.46 kg"
+    },
+    {
+      "id": 358,
+      "name": "chimecho",
+      "types": [
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/358.png",
+      "category": "wind chime",
+      "abilities": [
+        "Levitate"
+      ],
+      "height": "3.51 m",
+      "weight": "18.48 kg"
+    },
+    {
+      "id": 359,
+      "name": "absol",
+      "types": [
+        "dark"
+      ],
+      "url": "http://localhost:3001/images/359.png",
+      "category": "disaster",
+      "abilities": [
+        "Pressure",
+        "Super Luck",
+        "Justified"
+      ],
+      "height": "8.91 m",
+      "weight": "24.78 kg"
+    },
+    {
+      "id": 360,
+      "name": "wynaut",
+      "types": [
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/360.png",
+      "category": "bright",
+      "abilities": [
+        "Shadow Tag",
+        "Telepathy"
+      ],
+      "height": "8.63 m",
+      "weight": "39.94 kg"
+    },
+    {
+      "id": 361,
+      "name": "snorunt",
+      "types": [
+        "ice"
+      ],
+      "url": "http://localhost:3001/images/361.png",
+      "category": "snow hat",
+      "abilities": [
+        "Inner Focus",
+        "Ice Body",
+        "Moody"
+      ],
+      "height": "9.02 m",
+      "weight": "28.04 kg"
+    },
+    {
+      "id": 362,
+      "name": "glalie",
+      "types": [
+        "ice"
+      ],
+      "url": "http://localhost:3001/images/362.png",
+      "category": "face",
+      "abilities": [
+        "Inner Focus",
+        "Ice Body",
+        "Moody"
+      ],
+      "height": "9.93 m",
+      "weight": "10.66 kg"
+    },
+    {
+      "id": 363,
+      "name": "spheal",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "url": "http://localhost:3001/images/363.png",
+      "category": "clap",
+      "abilities": [
+        "Thick Fat",
+        "Ice Body",
+        "Oblivious"
+      ],
+      "height": "4.42 m",
+      "weight": "36.86 kg"
+    },
+    {
+      "id": 364,
+      "name": "sealeo",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "url": "http://localhost:3001/images/364.png",
+      "category": "ball roll",
+      "abilities": [
+        "Thick Fat",
+        "Ice Body",
+        "Oblivious"
+      ],
+      "height": "9.74 m",
+      "weight": "37.9 kg"
+    },
+    {
+      "id": 365,
+      "name": "walrein",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "url": "http://localhost:3001/images/365.png",
+      "category": "ice break",
+      "abilities": [
+        "Thick Fat",
+        "Ice Body",
+        "Oblivious"
+      ],
+      "height": "7.41 m",
+      "weight": "19.97 kg"
+    },
+    {
+      "id": 366,
+      "name": "clamperl",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/366.png",
+      "category": "bivalve",
+      "abilities": [
+        "Shell Armor",
+        "Rattled"
+      ],
+      "height": "3.43 m",
+      "weight": "27.4 kg"
+    },
+    {
+      "id": 367,
+      "name": "huntail",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/367.png",
+      "category": "deep sea",
+      "abilities": [
+        "Swift Swim",
+        "Water Veil"
+      ],
+      "height": "4.56 m",
+      "weight": "19.79 kg"
+    },
+    {
+      "id": 368,
+      "name": "gorebyss",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/368.png",
+      "category": "south sea",
+      "abilities": [
+        "Swift Swim",
+        "Hydration"
+      ],
+      "height": "2.26 m",
+      "weight": "26.29 kg"
+    },
+    {
+      "id": 369,
+      "name": "relicanth",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "url": "http://localhost:3001/images/369.png",
+      "category": "longevity",
+      "abilities": [
+        "Swift Swim",
+        "Rock Head",
+        "Sturdy"
+      ],
+      "height": "6.59 m",
+      "weight": "15.67 kg"
+    },
+    {
+      "id": 370,
+      "name": "luvdisc",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/370.png",
+      "category": "rendezvous",
+      "abilities": [
+        "Swift Swim",
+        "Hydration"
+      ],
+      "height": "8.45 m",
+      "weight": "37.98 kg"
+    },
+    {
+      "id": 371,
+      "name": "bagon",
+      "types": [
+        "dragon"
+      ],
+      "url": "http://localhost:3001/images/371.png",
+      "category": "rock head",
+      "abilities": [
+        "Rock Head",
+        "Sheer Force"
+      ],
+      "height": "6.3 m",
+      "weight": "24.74 kg"
+    },
+    {
+      "id": 372,
+      "name": "shelgon",
+      "types": [
+        "dragon"
+      ],
+      "url": "http://localhost:3001/images/372.png",
+      "category": "endurance",
+      "abilities": [
+        "Rock Head",
+        "Overcoat"
+      ],
+      "height": "6.67 m",
+      "weight": "24.01 kg"
+    },
+    {
+      "id": 373,
+      "name": "salamence",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/373.png",
+      "category": "dragon",
+      "abilities": [
+        "Intimidate",
+        "Moxie"
+      ],
+      "height": "6.1 m",
+      "weight": "49.52 kg"
+    },
+    {
+      "id": 374,
+      "name": "beldum",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/374.png",
+      "category": "iron ball",
+      "abilities": [
+        "Clear Body",
+        "Light Metal"
+      ],
+      "height": "8.68 m",
+      "weight": "24.18 kg"
+    },
+    {
+      "id": 375,
+      "name": "metang",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/375.png",
+      "category": "iron claw",
+      "abilities": [
+        "Clear Body",
+        "Light Metal"
+      ],
+      "height": "4.91 m",
+      "weight": "48.98 kg"
+    },
+    {
+      "id": 376,
+      "name": "metagross",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/376.png",
+      "category": "iron leg",
+      "abilities": [
+        "Clear Body",
+        "Light Metal"
+      ],
+      "height": "6.28 m",
+      "weight": "18.4 kg"
+    },
+    {
+      "id": 377,
+      "name": "regirock",
+      "types": [
+        "rock"
+      ],
+      "url": "http://localhost:3001/images/377.png",
+      "category": "rock peak",
+      "abilities": [
+        "Clear Body",
+        "Sturdy"
+      ],
+      "height": "4.87 m",
+      "weight": "29.09 kg"
+    },
+    {
+      "id": 378,
+      "name": "regice",
+      "types": [
+        "ice"
+      ],
+      "url": "http://localhost:3001/images/378.png",
+      "category": "iceberg",
+      "abilities": [
+        "Clear Body",
+        "Ice Body"
+      ],
+      "height": "8.92 m",
+      "weight": "33.79 kg"
+    },
+    {
+      "id": 379,
+      "name": "registeel",
+      "types": [
+        "steel"
+      ],
+      "url": "http://localhost:3001/images/379.png",
+      "category": "iron",
+      "abilities": [
+        "Clear Body",
+        "Light Metal"
+      ],
+      "height": "1.24 m",
+      "weight": "24.65 kg"
+    },
+    {
+      "id": 380,
+      "name": "latias",
+      "types": [
+        "dragon",
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/380.png",
+      "category": "eon",
+      "abilities": [
+        "Levitate"
+      ],
+      "height": "4.86 m",
+      "weight": "26.99 kg"
+    },
+    {
+      "id": 381,
+      "name": "latios",
+      "types": [
+        "dragon",
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/381.png",
+      "category": "eon",
+      "abilities": [
+        "Levitate"
+      ],
+      "height": "1.94 m",
+      "weight": "46.15 kg"
+    },
+    {
+      "id": 382,
+      "name": "kyogre",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/382.png",
+      "category": "sea basin",
+      "abilities": [
+        "Drizzle"
+      ],
+      "height": "9.2 m",
+      "weight": "18.69 kg"
+    },
+    {
+      "id": 383,
+      "name": "groudon",
+      "types": [
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/383.png",
+      "category": "continent",
+      "abilities": [
+        "Drought"
+      ],
+      "height": "1.91 m",
+      "weight": "19.22 kg"
+    },
+    {
+      "id": 384,
+      "name": "rayquaza",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/384.png",
+      "category": "sky high",
+      "abilities": [
+        "Air Lock"
+      ],
+      "height": "6.02 m",
+      "weight": "11.99 kg"
+    },
+    {
+      "id": 385,
+      "name": "jirachi",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/385.png",
+      "category": "wish",
+      "abilities": [
+        "Serene Grace"
+      ],
+      "height": "4.79 m",
+      "weight": "42.55 kg"
+    },
+    {
+      "id": 386,
+      "name": "deoxys",
+      "types": [
+        "psychic"
+      ],
+      "url": "http://localhost:3001/images/386.png",
+      "category": "dna",
+      "abilities": [
+        "Pressure"
+      ],
+      "height": "4.69 m",
+      "weight": "36 kg"
+    },
+    {
+      "id": 387,
+      "name": "turtwig",
+      "types": [
+        "grass"
+      ],
+      "url": "http://localhost:3001/images/387.png",
+      "category": "tiny leaf",
+      "abilities": [
+        "Overgrow",
+        "Shell Armor"
+      ],
+      "height": "1.2 m",
+      "weight": "42.54 kg"
+    },
+    {
+      "id": 388,
+      "name": "grotle",
+      "types": [
+        "grass"
+      ],
+      "url": "http://localhost:3001/images/388.png",
+      "category": "grove",
+      "abilities": [
+        "Overgrow",
+        "Shell Armor"
+      ],
+      "height": "6.01 m",
+      "weight": "21.47 kg"
+    },
+    {
+      "id": 389,
+      "name": "torterra",
+      "types": [
+        "grass",
+        "ground"
+      ],
+      "url": "http://localhost:3001/images/389.png",
+      "category": "continent",
+      "abilities": [
+        "Overgrow",
+        "Shell Armor"
+      ],
+      "height": "2.87 m",
+      "weight": "25.11 kg"
+    },
+    {
+      "id": 390,
+      "name": "chimchar",
+      "types": [
+        "fire"
+      ],
+      "url": "http://localhost:3001/images/390.png",
+      "category": "chimp",
+      "abilities": [
+        "Blaze",
+        "Iron Fist"
+      ],
+      "height": "4.11 m",
+      "weight": "23.22 kg"
+    },
+    {
+      "id": 391,
+      "name": "monferno",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "url": "http://localhost:3001/images/391.png",
+      "category": "playful",
+      "abilities": [
+        "Blaze",
+        "Iron Fist"
+      ],
+      "height": "1.39 m",
+      "weight": "31.3 kg"
+    },
+    {
+      "id": 392,
+      "name": "infernape",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "url": "http://localhost:3001/images/392.png",
+      "category": "flame",
+      "abilities": [
+        "Blaze",
+        "Iron Fist"
+      ],
+      "height": "7.47 m",
+      "weight": "45.41 kg"
+    },
+    {
+      "id": 393,
+      "name": "piplup",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/393.png",
+      "category": "penguin",
+      "abilities": [
+        "Torrent",
+        "Defiant"
+      ],
+      "height": "4.15 m",
+      "weight": "15.33 kg"
+    },
+    {
+      "id": 394,
+      "name": "prinplup",
+      "types": [
+        "water"
+      ],
+      "url": "http://localhost:3001/images/394.png",
+      "category": "penguin",
+      "abilities": [
+        "Torrent",
+        "Defiant"
+      ],
+      "height": "8.67 m",
+      "weight": "24.92 kg"
+    },
+    {
+      "id": 395,
+      "name": "empoleon",
+      "types": [
+        "water",
+        "steel"
+      ],
+      "url": "http://localhost:3001/images/395.png",
+      "category": "emperor",
+      "abilities": [
+        "Torrent",
+        "Defiant"
+      ],
+      "height": "5.99 m",
+      "weight": "20.63 kg"
+    },
+    {
+      "id": 396,
+      "name": "starly",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/396.png",
+      "category": "starling",
+      "abilities": [
+        "Keen Eye",
+        "Reckless"
+      ],
+      "height": "3.59 m",
+      "weight": "34.49 kg"
+    },
+    {
+      "id": 397,
+      "name": "staravia",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/397.png",
+      "category": "starling",
+      "abilities": [
+        "Intimidate",
+        "Reckless"
+      ],
+      "height": "4.69 m",
+      "weight": "29.06 kg"
+    },
+    {
+      "id": 398,
+      "name": "staraptor",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "url": "http://localhost:3001/images/398.png",
+      "category": "predator",
+      "abilities": [
+        "Intimidate",
+        "Reckless"
+      ],
+      "height": "6 m",
+      "weight": "31.07 kg"
+    },
+    {
+      "id": 399,
+      "name": "bidoof",
+      "types": [
+        "normal"
+      ],
+      "url": "http://localhost:3001/images/399.png",
+      "category": "plump mouse",
+      "abilities": [
+        "Simple",
+        "Unaware",
+        "Moody"
+      ],
+      "height": "8.43 m",
+      "weight": "45.92 kg"
+    },
+    {
+      "id": 400,
+      "name": "bibarel",
+      "types": [
+        "normal",
+        "water"
+      ],
+      "url": "http://localhost:3001/images/400.png",
+      "category": "beaver",
+      "abilities": [
+        "Simple",
+        "Unaware",
+        "Moody"
+      ],
+      "height": "2.64 m",
+      "weight": "30.79 kg"
+    }
+  ],
+  "totalPokemons": 400
+}

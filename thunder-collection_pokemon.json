@@ -1,0 +1,89 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "pokemon",
+    "dateExported": "2023-05-26T07:33:36.077Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "e48a5d4f-90cb-4f81-afb7-55a9781f5dd1",
+            "colId": "99067616-5155-4319-a940-6aeabfc99bbb",
+            "containerId": "",
+            "name": "add pokemon",
+            "url": "localhost:3001/pokemons",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2023-05-23T17:06:45.220Z",
+            "modified": "2023-05-26T07:27:16.387Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"name\": \"Pikachu LuXu\",\n  \"id\": 401,\n  \"types\": [\"electric\"],\n  \"url\": \"https://example.com/pikachu.png\"\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "862526fa-0c16-4fd1-bea9-ce8d8eb661ee",
+            "colId": "99067616-5155-4319-a940-6aeabfc99bbb",
+            "containerId": "",
+            "name": "get pokemons",
+            "url": "localhost:3001/pokemons",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2023-05-24T11:06:41.383Z",
+            "modified": "2023-05-26T06:22:32.185Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "4ff76d1a-08f9-4a79-b9f5-45aa831e6386",
+            "colId": "99067616-5155-4319-a940-6aeabfc99bbb",
+            "containerId": "",
+            "name": "update a pokemon",
+            "url": "http://localhost:3001/pokemons/401",
+            "method": "PUT",
+            "sortNum": 30000,
+            "created": "2023-05-24T14:35:02.596Z",
+            "modified": "2023-05-26T07:27:07.235Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"name\": \"Picachili\",\n  \"types\": [\"fire\"],\n  \"url\": \"http://example.com/image.jpg\"\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "82afc414-61ab-48da-bbd8-856936bc7545",
+            "colId": "99067616-5155-4319-a940-6aeabfc99bbb",
+            "containerId": "",
+            "name": "delete a pokemon",
+            "url": "http://localhost:3001/pokemons/401",
+            "method": "DELETE",
+            "sortNum": 40000,
+            "created": "2023-05-24T14:41:05.630Z",
+            "modified": "2023-05-26T07:32:53.289Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "83aeae69-93be-41ca-9e46-88a6592974a0",
+            "colId": "99067616-5155-4319-a940-6aeabfc99bbb",
+            "containerId": "",
+            "name": "get pokemon by id",
+            "url": "localhost:3001/pokemons/1",
+            "method": "GET",
+            "sortNum": 50000,
+            "created": "2023-05-26T06:51:07.026Z",
+            "modified": "2023-05-26T06:51:15.062Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}
